@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="144px" viewBox="0 0 174 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>mini-split-guitar-example</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="51.854067%" gradientTransform="translate(0.500000,0.500000),scale(0.964245,1.000000),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#AA0015" offset="2.04%"></stop>
+            <stop stop-color="#B80012" offset="86.38%"></stop>
+            <stop stop-color="#B90D0D" offset="86.88%"></stop>
+            <stop stop-color="#B91908" offset="87.63%"></stop>
+            <stop stop-color="#BA2005" offset="88.68%"></stop>
+            <stop stop-color="#BA2204" offset="91.45%"></stop>
+            <stop stop-color="#BA2105" offset="91.69%"></stop>
+            <stop stop-color="#AA0015" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="51.854067%" gradientTransform="translate(0.500000,0.500000),scale(0.964245,1.000000),translate(-0.500000,-0.500000)" id="radialGradient-2">
+            <stop stop-color="#FF1D25" offset="0%"></stop>
+            <stop stop-color="#FB1C24" offset="21.25%"></stop>
+            <stop stop-color="#EE1722" offset="43.18%"></stop>
+            <stop stop-color="#DA101E" offset="65.43%"></stop>
+            <stop stop-color="#BD0719" offset="87.77%"></stop>
+            <stop stop-color="#AA0015" offset="100%"></stop>
+        </radialGradient>
+        <path d="M134.88,107 L134.879,113.12 L141,113.12 L141,117.88 L134.879,117.88 L134.88,124 L130.12,124 L130.119,117.88 L124,117.88 L124,113.12 L130.12,113.12 L130.12,107 L134.88,107 Z" id="path-3"></path>
+        <filter x="-38.2%" y="-38.2%" width="176.5%" height="176.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="2.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="8" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.300207605 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feGaussianBlur stdDeviation="2.5" in="SourceAlpha" result="shadowBlurInner2"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner2" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.349269701   0 0 0 0 0.345948711   0 0 0 0 0.345948711  0 0 0 0.36604021 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="59.3841297%" y1="90.631493%" x2="40.6162255%" y2="9.36761912%" id="linearGradient-5">
+            <stop stop-color="#96BF00" offset="0.24%"></stop>
+            <stop stop-color="#95BD01" offset="7.55%"></stop>
+            <stop stop-color="#92BA02" offset="9.15%"></stop>
+            <stop stop-color="#90B803" offset="10.14%"></stop>
+            <stop stop-color="#8BB105" offset="10.54%"></stop>
+            <stop stop-color="#81A509" offset="10.83%"></stop>
+            <stop stop-color="#73930F" offset="11.07%"></stop>
+            <stop stop-color="#617D17" offset="11.27%"></stop>
+            <stop stop-color="#4B6120" offset="11.45%"></stop>
+            <stop stop-color="#31402C" offset="11.62%"></stop>
+            <stop stop-color="#131A38" offset="11.77%"></stop>
+            <stop stop-color="#010440" offset="11.85%"></stop>
+            <stop stop-color="#0F163A" offset="12.03%"></stop>
+            <stop stop-color="#31402C" offset="12.52%"></stop>
+            <stop stop-color="#4C6320" offset="13.02%"></stop>
+            <stop stop-color="#627E17" offset="13.52%"></stop>
+            <stop stop-color="#719110" offset="14.03%"></stop>
+            <stop stop-color="#7A9C0C" offset="14.55%"></stop>
+            <stop stop-color="#7DA00B" offset="15.1%"></stop>
+            <stop stop-color="#7DA00B" offset="15.64%"></stop>
+            <stop stop-color="#7DA00B" offset="23.47%"></stop>
+            <stop stop-color="#648109" offset="23.58%"></stop>
+            <stop stop-color="#465906" offset="23.74%"></stop>
+            <stop stop-color="#2D3904" offset="23.91%"></stop>
+            <stop stop-color="#192002" offset="24.08%"></stop>
+            <stop stop-color="#0B0E01" offset="24.26%"></stop>
+            <stop stop-color="#030300" offset="24.45%"></stop>
+            <stop stop-color="#000000" offset="24.67%"></stop>
+            <stop stop-color="#181F00" offset="24.95%"></stop>
+            <stop stop-color="#3E4F00" offset="25.46%"></stop>
+            <stop stop-color="#5E7700" offset="25.96%"></stop>
+            <stop stop-color="#769700" offset="26.45%"></stop>
+            <stop stop-color="#88AD00" offset="26.92%"></stop>
+            <stop stop-color="#92BA00" offset="27.37%"></stop>
+            <stop stop-color="#96BF00" offset="27.78%"></stop>
+            <stop stop-color="#96BF00" offset="33.03%"></stop>
+            <stop stop-color="#96BF00" offset="33.89%"></stop>
+            <stop stop-color="#95BD00" offset="35.5%"></stop>
+            <stop stop-color="#8FB600" offset="36.08%"></stop>
+            <stop stop-color="#86AB00" offset="36.49%"></stop>
+            <stop stop-color="#799A00" offset="36.83%"></stop>
+            <stop stop-color="#678400" offset="37.12%"></stop>
+            <stop stop-color="#526800" offset="37.37%"></stop>
+            <stop stop-color="#394800" offset="37.6%"></stop>
+            <stop stop-color="#1C2400" offset="37.8%"></stop>
+            <stop stop-color="#000000" offset="37.97%"></stop>
+            <stop stop-color="#1C2400" offset="38.12%"></stop>
+            <stop stop-color="#394800" offset="38.3%"></stop>
+            <stop stop-color="#526800" offset="38.5%"></stop>
+            <stop stop-color="#678400" offset="38.73%"></stop>
+            <stop stop-color="#799A00" offset="38.99%"></stop>
+            <stop stop-color="#86AB00" offset="39.29%"></stop>
+            <stop stop-color="#8FB600" offset="39.66%"></stop>
+            <stop stop-color="#95BD00" offset="40.17%"></stop>
+            <stop stop-color="#96BF00" offset="41.61%"></stop>
+            <stop stop-color="#96BF00" offset="44.91%"></stop>
+            <stop stop-color="#96BF00" offset="45.46%"></stop>
+            <stop stop-color="#95BD00" offset="46.62%"></stop>
+            <stop stop-color="#8FB600" offset="47.03%"></stop>
+            <stop stop-color="#86AB00" offset="47.33%"></stop>
+            <stop stop-color="#799A00" offset="47.57%"></stop>
+            <stop stop-color="#678400" offset="47.78%"></stop>
+            <stop stop-color="#526800" offset="47.96%"></stop>
+            <stop stop-color="#394800" offset="48.13%"></stop>
+            <stop stop-color="#1C2400" offset="48.28%"></stop>
+            <stop stop-color="#000000" offset="48.4%"></stop>
+            <stop stop-color="#1C2400" offset="48.54%"></stop>
+            <stop stop-color="#394800" offset="48.71%"></stop>
+            <stop stop-color="#526800" offset="48.91%"></stop>
+            <stop stop-color="#678400" offset="49.13%"></stop>
+            <stop stop-color="#799A00" offset="49.38%"></stop>
+            <stop stop-color="#86AB00" offset="49.67%"></stop>
+            <stop stop-color="#8FB600" offset="50.02%"></stop>
+            <stop stop-color="#95BD00" offset="50.52%"></stop>
+            <stop stop-color="#96BF00" offset="51.91%"></stop>
+            <stop stop-color="#96BF00" offset="58.13%"></stop>
+            <stop stop-color="#96BF00" offset="59.16%"></stop>
+            <stop stop-color="#95BD00" offset="60.77%"></stop>
+            <stop stop-color="#8FB600" offset="61.36%"></stop>
+            <stop stop-color="#86AB00" offset="61.77%"></stop>
+            <stop stop-color="#799A00" offset="62.11%"></stop>
+            <stop stop-color="#678400" offset="62.4%"></stop>
+            <stop stop-color="#526800" offset="62.65%"></stop>
+            <stop stop-color="#394800" offset="62.88%"></stop>
+            <stop stop-color="#1C2400" offset="63.09%"></stop>
+            <stop stop-color="#000000" offset="63.25%"></stop>
+            <stop stop-color="#1C2400" offset="63.45%"></stop>
+            <stop stop-color="#394800" offset="63.7%"></stop>
+            <stop stop-color="#526800" offset="63.97%"></stop>
+            <stop stop-color="#678400" offset="64.27%"></stop>
+            <stop stop-color="#799A00" offset="64.62%"></stop>
+            <stop stop-color="#86AB00" offset="65.02%"></stop>
+            <stop stop-color="#8FB600" offset="65.51%"></stop>
+            <stop stop-color="#95BD00" offset="66.21%"></stop>
+            <stop stop-color="#96BF00" offset="68.13%"></stop>
+            <stop stop-color="#96BF00" offset="75.39%"></stop>
+            <stop stop-color="#96BF00" offset="76.59%"></stop>
+            <stop stop-color="#95BD00" offset="77.93%"></stop>
+            <stop stop-color="#8FB600" offset="78.41%"></stop>
+            <stop stop-color="#86AB00" offset="78.76%"></stop>
+            <stop stop-color="#799A00" offset="79.04%"></stop>
+            <stop stop-color="#678400" offset="79.27%"></stop>
+            <stop stop-color="#526800" offset="79.49%"></stop>
+            <stop stop-color="#394800" offset="79.68%"></stop>
+            <stop stop-color="#1C2400" offset="79.85%"></stop>
+            <stop stop-color="#000000" offset="79.99%"></stop>
+            <stop stop-color="#1C2400" offset="80.25%"></stop>
+            <stop stop-color="#394800" offset="80.57%"></stop>
+            <stop stop-color="#526800" offset="80.94%"></stop>
+            <stop stop-color="#678400" offset="81.34%"></stop>
+            <stop stop-color="#799A00" offset="81.79%"></stop>
+            <stop stop-color="#86AB00" offset="82.32%"></stop>
+            <stop stop-color="#8FB600" offset="82.98%"></stop>
+            <stop stop-color="#95BD00" offset="83.9%"></stop>
+            <stop stop-color="#96BF00" offset="86.46%"></stop>
+            <stop stop-color="#95BD00" offset="87.92%"></stop>
+            <stop stop-color="#8FB600" offset="88.45%"></stop>
+            <stop stop-color="#86AB00" offset="88.83%"></stop>
+            <stop stop-color="#799A00" offset="89.13%"></stop>
+            <stop stop-color="#678400" offset="89.39%"></stop>
+            <stop stop-color="#526800" offset="89.62%"></stop>
+            <stop stop-color="#394800" offset="89.83%"></stop>
+            <stop stop-color="#1C2400" offset="90.02%"></stop>
+            <stop stop-color="#000000" offset="90.17%"></stop>
+            <stop stop-color="#1C2400" offset="90.35%"></stop>
+            <stop stop-color="#394800" offset="90.58%"></stop>
+            <stop stop-color="#526800" offset="90.84%"></stop>
+            <stop stop-color="#678400" offset="91.13%"></stop>
+            <stop stop-color="#799A00" offset="91.45%"></stop>
+            <stop stop-color="#86AB00" offset="91.83%"></stop>
+            <stop stop-color="#8FB600" offset="92.29%"></stop>
+            <stop stop-color="#95BD00" offset="92.95%"></stop>
+            <stop stop-color="#96BF00" offset="94.76%"></stop>
+            <stop stop-color="#96BF00" offset="99.26%"></stop>
+            <stop stop-color="#96BF00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.3047365%" y1="90.555724%" x2="44.6954598%" y2="9.444276%" id="linearGradient-6">
+            <stop stop-color="#96BF00" offset="0.24%"></stop>
+            <stop stop-color="#95BD01" offset="7.55%"></stop>
+            <stop stop-color="#92BA02" offset="9.15%"></stop>
+            <stop stop-color="#90B803" offset="10.14%"></stop>
+            <stop stop-color="#8BB105" offset="10.54%"></stop>
+            <stop stop-color="#81A509" offset="10.83%"></stop>
+            <stop stop-color="#73930F" offset="11.07%"></stop>
+            <stop stop-color="#617D17" offset="11.27%"></stop>
+            <stop stop-color="#4B6120" offset="11.45%"></stop>
+            <stop stop-color="#31402C" offset="11.62%"></stop>
+            <stop stop-color="#131A38" offset="11.77%"></stop>
+            <stop stop-color="#010440" offset="11.85%"></stop>
+            <stop stop-color="#0F163A" offset="12.03%"></stop>
+            <stop stop-color="#31402C" offset="12.52%"></stop>
+            <stop stop-color="#4C6320" offset="13.02%"></stop>
+            <stop stop-color="#627E17" offset="13.52%"></stop>
+            <stop stop-color="#719110" offset="14.03%"></stop>
+            <stop stop-color="#7A9C0C" offset="14.55%"></stop>
+            <stop stop-color="#7DA00B" offset="15.1%"></stop>
+            <stop stop-color="#7DA00B" offset="15.64%"></stop>
+            <stop stop-color="#7DA00B" offset="23.47%"></stop>
+            <stop stop-color="#648109" offset="23.58%"></stop>
+            <stop stop-color="#465906" offset="23.74%"></stop>
+            <stop stop-color="#2D3904" offset="23.91%"></stop>
+            <stop stop-color="#192002" offset="24.08%"></stop>
+            <stop stop-color="#0B0E01" offset="24.26%"></stop>
+            <stop stop-color="#030300" offset="24.45%"></stop>
+            <stop stop-color="#000000" offset="24.67%"></stop>
+            <stop stop-color="#181F00" offset="24.95%"></stop>
+            <stop stop-color="#3E4F00" offset="25.46%"></stop>
+            <stop stop-color="#5E7700" offset="25.96%"></stop>
+            <stop stop-color="#769700" offset="26.45%"></stop>
+            <stop stop-color="#88AD00" offset="26.92%"></stop>
+            <stop stop-color="#92BA00" offset="27.37%"></stop>
+            <stop stop-color="#96BF00" offset="27.78%"></stop>
+            <stop stop-color="#96BF00" offset="33.03%"></stop>
+            <stop stop-color="#96BF00" offset="33.89%"></stop>
+            <stop stop-color="#95BD00" offset="35.5%"></stop>
+            <stop stop-color="#8FB600" offset="36.08%"></stop>
+            <stop stop-color="#86AB00" offset="36.49%"></stop>
+            <stop stop-color="#799A00" offset="36.83%"></stop>
+            <stop stop-color="#678400" offset="37.12%"></stop>
+            <stop stop-color="#526800" offset="37.37%"></stop>
+            <stop stop-color="#394800" offset="37.6%"></stop>
+            <stop stop-color="#1C2400" offset="37.8%"></stop>
+            <stop stop-color="#000000" offset="37.97%"></stop>
+            <stop stop-color="#1C2400" offset="38.12%"></stop>
+            <stop stop-color="#394800" offset="38.3%"></stop>
+            <stop stop-color="#526800" offset="38.5%"></stop>
+            <stop stop-color="#678400" offset="38.73%"></stop>
+            <stop stop-color="#799A00" offset="38.99%"></stop>
+            <stop stop-color="#86AB00" offset="39.29%"></stop>
+            <stop stop-color="#8FB600" offset="39.66%"></stop>
+            <stop stop-color="#95BD00" offset="40.17%"></stop>
+            <stop stop-color="#96BF00" offset="41.61%"></stop>
+            <stop stop-color="#96BF00" offset="44.91%"></stop>
+            <stop stop-color="#96BF00" offset="45.46%"></stop>
+            <stop stop-color="#95BD00" offset="46.62%"></stop>
+            <stop stop-color="#8FB600" offset="47.03%"></stop>
+            <stop stop-color="#86AB00" offset="47.33%"></stop>
+            <stop stop-color="#799A00" offset="47.57%"></stop>
+            <stop stop-color="#678400" offset="47.78%"></stop>
+            <stop stop-color="#526800" offset="47.96%"></stop>
+            <stop stop-color="#394800" offset="48.13%"></stop>
+            <stop stop-color="#1C2400" offset="48.28%"></stop>
+            <stop stop-color="#000000" offset="48.4%"></stop>
+            <stop stop-color="#1C2400" offset="48.54%"></stop>
+            <stop stop-color="#394800" offset="48.71%"></stop>
+            <stop stop-color="#526800" offset="48.91%"></stop>
+            <stop stop-color="#678400" offset="49.13%"></stop>
+            <stop stop-color="#799A00" offset="49.38%"></stop>
+            <stop stop-color="#86AB00" offset="49.67%"></stop>
+            <stop stop-color="#8FB600" offset="50.02%"></stop>
+            <stop stop-color="#95BD00" offset="50.52%"></stop>
+            <stop stop-color="#96BF00" offset="51.91%"></stop>
+            <stop stop-color="#96BF00" offset="58.13%"></stop>
+            <stop stop-color="#96BF00" offset="59.16%"></stop>
+            <stop stop-color="#95BD00" offset="60.77%"></stop>
+            <stop stop-color="#8FB600" offset="61.36%"></stop>
+            <stop stop-color="#86AB00" offset="61.77%"></stop>
+            <stop stop-color="#799A00" offset="62.11%"></stop>
+            <stop stop-color="#678400" offset="62.4%"></stop>
+            <stop stop-color="#526800" offset="62.65%"></stop>
+            <stop stop-color="#394800" offset="62.88%"></stop>
+            <stop stop-color="#1C2400" offset="63.09%"></stop>
+            <stop stop-color="#000000" offset="63.25%"></stop>
+            <stop stop-color="#1C2400" offset="63.45%"></stop>
+            <stop stop-color="#394800" offset="63.7%"></stop>
+            <stop stop-color="#526800" offset="63.97%"></stop>
+            <stop stop-color="#678400" offset="64.27%"></stop>
+            <stop stop-color="#799A00" offset="64.62%"></stop>
+            <stop stop-color="#86AB00" offset="65.02%"></stop>
+            <stop stop-color="#8FB600" offset="65.51%"></stop>
+            <stop stop-color="#95BD00" offset="66.21%"></stop>
+            <stop stop-color="#96BF00" offset="68.13%"></stop>
+            <stop stop-color="#96BF00" offset="75.39%"></stop>
+            <stop stop-color="#96BF00" offset="76.59%"></stop>
+            <stop stop-color="#95BD00" offset="77.93%"></stop>
+            <stop stop-color="#8FB600" offset="78.41%"></stop>
+            <stop stop-color="#86AB00" offset="78.76%"></stop>
+            <stop stop-color="#799A00" offset="79.04%"></stop>
+            <stop stop-color="#678400" offset="79.27%"></stop>
+            <stop stop-color="#526800" offset="79.49%"></stop>
+            <stop stop-color="#394800" offset="79.68%"></stop>
+            <stop stop-color="#1C2400" offset="79.85%"></stop>
+            <stop stop-color="#000000" offset="79.99%"></stop>
+            <stop stop-color="#1C2400" offset="80.25%"></stop>
+            <stop stop-color="#394800" offset="80.57%"></stop>
+            <stop stop-color="#526800" offset="80.94%"></stop>
+            <stop stop-color="#678400" offset="81.34%"></stop>
+            <stop stop-color="#799A00" offset="81.79%"></stop>
+            <stop stop-color="#86AB00" offset="82.32%"></stop>
+            <stop stop-color="#8FB600" offset="82.98%"></stop>
+            <stop stop-color="#95BD00" offset="83.9%"></stop>
+            <stop stop-color="#96BF00" offset="86.46%"></stop>
+            <stop stop-color="#95BD00" offset="87.92%"></stop>
+            <stop stop-color="#8FB600" offset="88.45%"></stop>
+            <stop stop-color="#86AB00" offset="88.83%"></stop>
+            <stop stop-color="#799A00" offset="89.13%"></stop>
+            <stop stop-color="#678400" offset="89.39%"></stop>
+            <stop stop-color="#526800" offset="89.62%"></stop>
+            <stop stop-color="#394800" offset="89.83%"></stop>
+            <stop stop-color="#1C2400" offset="90.02%"></stop>
+            <stop stop-color="#000000" offset="90.17%"></stop>
+            <stop stop-color="#1C2400" offset="90.35%"></stop>
+            <stop stop-color="#394800" offset="90.58%"></stop>
+            <stop stop-color="#526800" offset="90.84%"></stop>
+            <stop stop-color="#678400" offset="91.13%"></stop>
+            <stop stop-color="#799A00" offset="91.45%"></stop>
+            <stop stop-color="#86AB00" offset="91.83%"></stop>
+            <stop stop-color="#8FB600" offset="92.29%"></stop>
+            <stop stop-color="#95BD00" offset="92.95%"></stop>
+            <stop stop-color="#96BF00" offset="94.76%"></stop>
+            <stop stop-color="#96BF00" offset="99.26%"></stop>
+            <stop stop-color="#96BF00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.0871144%" y1="90.438579%" x2="44.9130672%" y2="9.56142105%" id="linearGradient-7">
+            <stop stop-color="#96BF00" offset="0.24%"></stop>
+            <stop stop-color="#95BD01" offset="7.55%"></stop>
+            <stop stop-color="#92BA02" offset="9.15%"></stop>
+            <stop stop-color="#90B803" offset="10.14%"></stop>
+            <stop stop-color="#8BB105" offset="10.54%"></stop>
+            <stop stop-color="#81A509" offset="10.83%"></stop>
+            <stop stop-color="#73930F" offset="11.07%"></stop>
+            <stop stop-color="#617D17" offset="11.27%"></stop>
+            <stop stop-color="#4B6120" offset="11.45%"></stop>
+            <stop stop-color="#31402C" offset="11.62%"></stop>
+            <stop stop-color="#131A38" offset="11.77%"></stop>
+            <stop stop-color="#010440" offset="11.85%"></stop>
+            <stop stop-color="#0F163A" offset="12.03%"></stop>
+            <stop stop-color="#31402C" offset="12.52%"></stop>
+            <stop stop-color="#4C6320" offset="13.02%"></stop>
+            <stop stop-color="#627E17" offset="13.52%"></stop>
+            <stop stop-color="#719110" offset="14.03%"></stop>
+            <stop stop-color="#7A9C0C" offset="14.55%"></stop>
+            <stop stop-color="#7DA00B" offset="15.1%"></stop>
+            <stop stop-color="#7DA00B" offset="15.64%"></stop>
+            <stop stop-color="#7DA00B" offset="23.47%"></stop>
+            <stop stop-color="#648109" offset="23.58%"></stop>
+            <stop stop-color="#465906" offset="23.74%"></stop>
+            <stop stop-color="#2D3904" offset="23.91%"></stop>
+            <stop stop-color="#192002" offset="24.08%"></stop>
+            <stop stop-color="#0B0E01" offset="24.26%"></stop>
+            <stop stop-color="#030300" offset="24.45%"></stop>
+            <stop stop-color="#000000" offset="24.67%"></stop>
+            <stop stop-color="#181F00" offset="24.95%"></stop>
+            <stop stop-color="#3E4F00" offset="25.46%"></stop>
+            <stop stop-color="#5E7700" offset="25.96%"></stop>
+            <stop stop-color="#769700" offset="26.45%"></stop>
+            <stop stop-color="#88AD00" offset="26.92%"></stop>
+            <stop stop-color="#92BA00" offset="27.37%"></stop>
+            <stop stop-color="#96BF00" offset="27.78%"></stop>
+            <stop stop-color="#96BF00" offset="33.03%"></stop>
+            <stop stop-color="#96BF00" offset="33.89%"></stop>
+            <stop stop-color="#95BD00" offset="35.5%"></stop>
+            <stop stop-color="#8FB600" offset="36.08%"></stop>
+            <stop stop-color="#86AB00" offset="36.49%"></stop>
+            <stop stop-color="#799A00" offset="36.83%"></stop>
+            <stop stop-color="#678400" offset="37.12%"></stop>
+            <stop stop-color="#526800" offset="37.37%"></stop>
+            <stop stop-color="#394800" offset="37.6%"></stop>
+            <stop stop-color="#1C2400" offset="37.8%"></stop>
+            <stop stop-color="#000000" offset="37.97%"></stop>
+            <stop stop-color="#1C2400" offset="38.12%"></stop>
+            <stop stop-color="#394800" offset="38.3%"></stop>
+            <stop stop-color="#526800" offset="38.5%"></stop>
+            <stop stop-color="#678400" offset="38.73%"></stop>
+            <stop stop-color="#799A00" offset="38.99%"></stop>
+            <stop stop-color="#86AB00" offset="39.29%"></stop>
+            <stop stop-color="#8FB600" offset="39.66%"></stop>
+            <stop stop-color="#95BD00" offset="40.17%"></stop>
+            <stop stop-color="#96BF00" offset="41.61%"></stop>
+            <stop stop-color="#96BF00" offset="44.91%"></stop>
+            <stop stop-color="#96BF00" offset="45.46%"></stop>
+            <stop stop-color="#95BD00" offset="46.62%"></stop>
+            <stop stop-color="#8FB600" offset="47.03%"></stop>
+            <stop stop-color="#86AB00" offset="47.33%"></stop>
+            <stop stop-color="#799A00" offset="47.57%"></stop>
+            <stop stop-color="#678400" offset="47.78%"></stop>
+            <stop stop-color="#526800" offset="47.96%"></stop>
+            <stop stop-color="#394800" offset="48.13%"></stop>
+            <stop stop-color="#1C2400" offset="48.28%"></stop>
+            <stop stop-color="#000000" offset="48.4%"></stop>
+            <stop stop-color="#1C2400" offset="48.54%"></stop>
+            <stop stop-color="#394800" offset="48.71%"></stop>
+            <stop stop-color="#526800" offset="48.91%"></stop>
+            <stop stop-color="#678400" offset="49.13%"></stop>
+            <stop stop-color="#799A00" offset="49.38%"></stop>
+            <stop stop-color="#86AB00" offset="49.67%"></stop>
+            <stop stop-color="#8FB600" offset="50.02%"></stop>
+            <stop stop-color="#95BD00" offset="50.52%"></stop>
+            <stop stop-color="#96BF00" offset="51.91%"></stop>
+            <stop stop-color="#96BF00" offset="58.13%"></stop>
+            <stop stop-color="#96BF00" offset="59.16%"></stop>
+            <stop stop-color="#95BD00" offset="60.77%"></stop>
+            <stop stop-color="#8FB600" offset="61.36%"></stop>
+            <stop stop-color="#86AB00" offset="61.77%"></stop>
+            <stop stop-color="#799A00" offset="62.11%"></stop>
+            <stop stop-color="#678400" offset="62.4%"></stop>
+            <stop stop-color="#526800" offset="62.65%"></stop>
+            <stop stop-color="#394800" offset="62.88%"></stop>
+            <stop stop-color="#1C2400" offset="63.09%"></stop>
+            <stop stop-color="#000000" offset="63.25%"></stop>
+            <stop stop-color="#1C2400" offset="63.45%"></stop>
+            <stop stop-color="#394800" offset="63.7%"></stop>
+            <stop stop-color="#526800" offset="63.97%"></stop>
+            <stop stop-color="#678400" offset="64.27%"></stop>
+            <stop stop-color="#799A00" offset="64.62%"></stop>
+            <stop stop-color="#86AB00" offset="65.02%"></stop>
+            <stop stop-color="#8FB600" offset="65.51%"></stop>
+            <stop stop-color="#95BD00" offset="66.21%"></stop>
+            <stop stop-color="#96BF00" offset="68.13%"></stop>
+            <stop stop-color="#96BF00" offset="75.39%"></stop>
+            <stop stop-color="#96BF00" offset="76.59%"></stop>
+            <stop stop-color="#95BD00" offset="77.93%"></stop>
+            <stop stop-color="#8FB600" offset="78.41%"></stop>
+            <stop stop-color="#86AB00" offset="78.76%"></stop>
+            <stop stop-color="#799A00" offset="79.04%"></stop>
+            <stop stop-color="#678400" offset="79.27%"></stop>
+            <stop stop-color="#526800" offset="79.49%"></stop>
+            <stop stop-color="#394800" offset="79.68%"></stop>
+            <stop stop-color="#1C2400" offset="79.85%"></stop>
+            <stop stop-color="#000000" offset="79.99%"></stop>
+            <stop stop-color="#1C2400" offset="80.25%"></stop>
+            <stop stop-color="#394800" offset="80.57%"></stop>
+            <stop stop-color="#526800" offset="80.94%"></stop>
+            <stop stop-color="#678400" offset="81.34%"></stop>
+            <stop stop-color="#799A00" offset="81.79%"></stop>
+            <stop stop-color="#86AB00" offset="82.32%"></stop>
+            <stop stop-color="#8FB600" offset="82.98%"></stop>
+            <stop stop-color="#95BD00" offset="83.9%"></stop>
+            <stop stop-color="#96BF00" offset="86.46%"></stop>
+            <stop stop-color="#95BD00" offset="87.92%"></stop>
+            <stop stop-color="#8FB600" offset="88.45%"></stop>
+            <stop stop-color="#86AB00" offset="88.83%"></stop>
+            <stop stop-color="#799A00" offset="89.13%"></stop>
+            <stop stop-color="#678400" offset="89.39%"></stop>
+            <stop stop-color="#526800" offset="89.62%"></stop>
+            <stop stop-color="#394800" offset="89.83%"></stop>
+            <stop stop-color="#1C2400" offset="90.02%"></stop>
+            <stop stop-color="#000000" offset="90.17%"></stop>
+            <stop stop-color="#1C2400" offset="90.35%"></stop>
+            <stop stop-color="#394800" offset="90.58%"></stop>
+            <stop stop-color="#526800" offset="90.84%"></stop>
+            <stop stop-color="#678400" offset="91.13%"></stop>
+            <stop stop-color="#799A00" offset="91.45%"></stop>
+            <stop stop-color="#86AB00" offset="91.83%"></stop>
+            <stop stop-color="#8FB600" offset="92.29%"></stop>
+            <stop stop-color="#95BD00" offset="92.95%"></stop>
+            <stop stop-color="#96BF00" offset="94.76%"></stop>
+            <stop stop-color="#96BF00" offset="99.26%"></stop>
+            <stop stop-color="#96BF00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.229945%" y1="90.5159663%" x2="44.7698638%" y2="9.48403369%" id="linearGradient-8">
+            <stop stop-color="#96BF00" offset="0.24%"></stop>
+            <stop stop-color="#95BD01" offset="7.55%"></stop>
+            <stop stop-color="#92BA02" offset="9.15%"></stop>
+            <stop stop-color="#90B803" offset="10.14%"></stop>
+            <stop stop-color="#8BB105" offset="10.54%"></stop>
+            <stop stop-color="#81A509" offset="10.83%"></stop>
+            <stop stop-color="#73930F" offset="11.07%"></stop>
+            <stop stop-color="#617D17" offset="11.27%"></stop>
+            <stop stop-color="#4B6120" offset="11.45%"></stop>
+            <stop stop-color="#31402C" offset="11.62%"></stop>
+            <stop stop-color="#131A38" offset="11.77%"></stop>
+            <stop stop-color="#010440" offset="11.85%"></stop>
+            <stop stop-color="#0F163A" offset="12.03%"></stop>
+            <stop stop-color="#31402C" offset="12.52%"></stop>
+            <stop stop-color="#4C6320" offset="13.02%"></stop>
+            <stop stop-color="#627E17" offset="13.52%"></stop>
+            <stop stop-color="#719110" offset="14.03%"></stop>
+            <stop stop-color="#7A9C0C" offset="14.55%"></stop>
+            <stop stop-color="#7DA00B" offset="15.1%"></stop>
+            <stop stop-color="#7DA00B" offset="15.64%"></stop>
+            <stop stop-color="#7DA00B" offset="23.47%"></stop>
+            <stop stop-color="#648109" offset="23.58%"></stop>
+            <stop stop-color="#465906" offset="23.74%"></stop>
+            <stop stop-color="#2D3904" offset="23.91%"></stop>
+            <stop stop-color="#192002" offset="24.08%"></stop>
+            <stop stop-color="#0B0E01" offset="24.26%"></stop>
+            <stop stop-color="#030300" offset="24.45%"></stop>
+            <stop stop-color="#000000" offset="24.67%"></stop>
+            <stop stop-color="#181F00" offset="24.95%"></stop>
+            <stop stop-color="#3E4F00" offset="25.46%"></stop>
+            <stop stop-color="#5E7700" offset="25.96%"></stop>
+            <stop stop-color="#769700" offset="26.45%"></stop>
+            <stop stop-color="#88AD00" offset="26.92%"></stop>
+            <stop stop-color="#92BA00" offset="27.37%"></stop>
+            <stop stop-color="#96BF00" offset="27.78%"></stop>
+            <stop stop-color="#96BF00" offset="33.03%"></stop>
+            <stop stop-color="#96BF00" offset="33.89%"></stop>
+            <stop stop-color="#95BD00" offset="35.5%"></stop>
+            <stop stop-color="#8FB600" offset="36.08%"></stop>
+            <stop stop-color="#86AB00" offset="36.49%"></stop>
+            <stop stop-color="#799A00" offset="36.83%"></stop>
+            <stop stop-color="#678400" offset="37.12%"></stop>
+            <stop stop-color="#526800" offset="37.37%"></stop>
+            <stop stop-color="#394800" offset="37.6%"></stop>
+            <stop stop-color="#1C2400" offset="37.8%"></stop>
+            <stop stop-color="#000000" offset="37.97%"></stop>
+            <stop stop-color="#1C2400" offset="38.12%"></stop>
+            <stop stop-color="#394800" offset="38.3%"></stop>
+            <stop stop-color="#526800" offset="38.5%"></stop>
+            <stop stop-color="#678400" offset="38.73%"></stop>
+            <stop stop-color="#799A00" offset="38.99%"></stop>
+            <stop stop-color="#86AB00" offset="39.29%"></stop>
+            <stop stop-color="#8FB600" offset="39.66%"></stop>
+            <stop stop-color="#95BD00" offset="40.17%"></stop>
+            <stop stop-color="#96BF00" offset="41.61%"></stop>
+            <stop stop-color="#96BF00" offset="44.91%"></stop>
+            <stop stop-color="#96BF00" offset="45.46%"></stop>
+            <stop stop-color="#95BD00" offset="46.62%"></stop>
+            <stop stop-color="#8FB600" offset="47.03%"></stop>
+            <stop stop-color="#86AB00" offset="47.33%"></stop>
+            <stop stop-color="#799A00" offset="47.57%"></stop>
+            <stop stop-color="#678400" offset="47.78%"></stop>
+            <stop stop-color="#526800" offset="47.96%"></stop>
+            <stop stop-color="#394800" offset="48.13%"></stop>
+            <stop stop-color="#1C2400" offset="48.28%"></stop>
+            <stop stop-color="#000000" offset="48.4%"></stop>
+            <stop stop-color="#1C2400" offset="48.54%"></stop>
+            <stop stop-color="#394800" offset="48.71%"></stop>
+            <stop stop-color="#526800" offset="48.91%"></stop>
+            <stop stop-color="#678400" offset="49.13%"></stop>
+            <stop stop-color="#799A00" offset="49.38%"></stop>
+            <stop stop-color="#86AB00" offset="49.67%"></stop>
+            <stop stop-color="#8FB600" offset="50.02%"></stop>
+            <stop stop-color="#95BD00" offset="50.52%"></stop>
+            <stop stop-color="#96BF00" offset="51.91%"></stop>
+            <stop stop-color="#96BF00" offset="58.13%"></stop>
+            <stop stop-color="#96BF00" offset="59.16%"></stop>
+            <stop stop-color="#95BD00" offset="60.77%"></stop>
+            <stop stop-color="#8FB600" offset="61.36%"></stop>
+            <stop stop-color="#86AB00" offset="61.77%"></stop>
+            <stop stop-color="#799A00" offset="62.11%"></stop>
+            <stop stop-color="#678400" offset="62.4%"></stop>
+            <stop stop-color="#526800" offset="62.65%"></stop>
+            <stop stop-color="#394800" offset="62.88%"></stop>
+            <stop stop-color="#1C2400" offset="63.09%"></stop>
+            <stop stop-color="#000000" offset="63.25%"></stop>
+            <stop stop-color="#1C2400" offset="63.45%"></stop>
+            <stop stop-color="#394800" offset="63.7%"></stop>
+            <stop stop-color="#526800" offset="63.97%"></stop>
+            <stop stop-color="#678400" offset="64.27%"></stop>
+            <stop stop-color="#799A00" offset="64.62%"></stop>
+            <stop stop-color="#86AB00" offset="65.02%"></stop>
+            <stop stop-color="#8FB600" offset="65.51%"></stop>
+            <stop stop-color="#95BD00" offset="66.21%"></stop>
+            <stop stop-color="#96BF00" offset="68.13%"></stop>
+            <stop stop-color="#96BF00" offset="75.39%"></stop>
+            <stop stop-color="#96BF00" offset="76.59%"></stop>
+            <stop stop-color="#95BD00" offset="77.93%"></stop>
+            <stop stop-color="#8FB600" offset="78.41%"></stop>
+            <stop stop-color="#86AB00" offset="78.76%"></stop>
+            <stop stop-color="#799A00" offset="79.04%"></stop>
+            <stop stop-color="#678400" offset="79.27%"></stop>
+            <stop stop-color="#526800" offset="79.49%"></stop>
+            <stop stop-color="#394800" offset="79.68%"></stop>
+            <stop stop-color="#1C2400" offset="79.85%"></stop>
+            <stop stop-color="#000000" offset="79.99%"></stop>
+            <stop stop-color="#1C2400" offset="80.25%"></stop>
+            <stop stop-color="#394800" offset="80.57%"></stop>
+            <stop stop-color="#526800" offset="80.94%"></stop>
+            <stop stop-color="#678400" offset="81.34%"></stop>
+            <stop stop-color="#799A00" offset="81.79%"></stop>
+            <stop stop-color="#86AB00" offset="82.32%"></stop>
+            <stop stop-color="#8FB600" offset="82.98%"></stop>
+            <stop stop-color="#95BD00" offset="83.9%"></stop>
+            <stop stop-color="#96BF00" offset="86.46%"></stop>
+            <stop stop-color="#95BD00" offset="87.92%"></stop>
+            <stop stop-color="#8FB600" offset="88.45%"></stop>
+            <stop stop-color="#86AB00" offset="88.83%"></stop>
+            <stop stop-color="#799A00" offset="89.13%"></stop>
+            <stop stop-color="#678400" offset="89.39%"></stop>
+            <stop stop-color="#526800" offset="89.62%"></stop>
+            <stop stop-color="#394800" offset="89.83%"></stop>
+            <stop stop-color="#1C2400" offset="90.02%"></stop>
+            <stop stop-color="#000000" offset="90.17%"></stop>
+            <stop stop-color="#1C2400" offset="90.35%"></stop>
+            <stop stop-color="#394800" offset="90.58%"></stop>
+            <stop stop-color="#526800" offset="90.84%"></stop>
+            <stop stop-color="#678400" offset="91.13%"></stop>
+            <stop stop-color="#799A00" offset="91.45%"></stop>
+            <stop stop-color="#86AB00" offset="91.83%"></stop>
+            <stop stop-color="#8FB600" offset="92.29%"></stop>
+            <stop stop-color="#95BD00" offset="92.95%"></stop>
+            <stop stop-color="#96BF00" offset="94.76%"></stop>
+            <stop stop-color="#96BF00" offset="99.26%"></stop>
+            <stop stop-color="#96BF00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.2301362%" y1="90.5159663%" x2="44.770055%" y2="9.48488864%" id="linearGradient-9">
+            <stop stop-color="#96BF00" offset="0.24%"></stop>
+            <stop stop-color="#95BD01" offset="7.55%"></stop>
+            <stop stop-color="#92BA02" offset="9.15%"></stop>
+            <stop stop-color="#90B803" offset="10.14%"></stop>
+            <stop stop-color="#8BB105" offset="10.54%"></stop>
+            <stop stop-color="#81A509" offset="10.83%"></stop>
+            <stop stop-color="#73930F" offset="11.07%"></stop>
+            <stop stop-color="#617D17" offset="11.27%"></stop>
+            <stop stop-color="#4B6120" offset="11.45%"></stop>
+            <stop stop-color="#31402C" offset="11.62%"></stop>
+            <stop stop-color="#131A38" offset="11.77%"></stop>
+            <stop stop-color="#010440" offset="11.85%"></stop>
+            <stop stop-color="#0F163A" offset="12.03%"></stop>
+            <stop stop-color="#31402C" offset="12.52%"></stop>
+            <stop stop-color="#4C6320" offset="13.02%"></stop>
+            <stop stop-color="#627E17" offset="13.52%"></stop>
+            <stop stop-color="#719110" offset="14.03%"></stop>
+            <stop stop-color="#7A9C0C" offset="14.55%"></stop>
+            <stop stop-color="#7DA00B" offset="15.1%"></stop>
+            <stop stop-color="#7DA00B" offset="15.64%"></stop>
+            <stop stop-color="#7DA00B" offset="23.47%"></stop>
+            <stop stop-color="#648109" offset="23.58%"></stop>
+            <stop stop-color="#465906" offset="23.74%"></stop>
+            <stop stop-color="#2D3904" offset="23.91%"></stop>
+            <stop stop-color="#192002" offset="24.08%"></stop>
+            <stop stop-color="#0B0E01" offset="24.26%"></stop>
+            <stop stop-color="#030300" offset="24.45%"></stop>
+            <stop stop-color="#000000" offset="24.67%"></stop>
+            <stop stop-color="#181F00" offset="24.95%"></stop>
+            <stop stop-color="#3E4F00" offset="25.46%"></stop>
+            <stop stop-color="#5E7700" offset="25.96%"></stop>
+            <stop stop-color="#769700" offset="26.45%"></stop>
+            <stop stop-color="#88AD00" offset="26.92%"></stop>
+            <stop stop-color="#92BA00" offset="27.37%"></stop>
+            <stop stop-color="#96BF00" offset="27.78%"></stop>
+            <stop stop-color="#96BF00" offset="33.03%"></stop>
+            <stop stop-color="#96BF00" offset="33.89%"></stop>
+            <stop stop-color="#95BD00" offset="35.5%"></stop>
+            <stop stop-color="#8FB600" offset="36.08%"></stop>
+            <stop stop-color="#86AB00" offset="36.49%"></stop>
+            <stop stop-color="#799A00" offset="36.83%"></stop>
+            <stop stop-color="#678400" offset="37.12%"></stop>
+            <stop stop-color="#526800" offset="37.37%"></stop>
+            <stop stop-color="#394800" offset="37.6%"></stop>
+            <stop stop-color="#1C2400" offset="37.8%"></stop>
+            <stop stop-color="#000000" offset="37.97%"></stop>
+            <stop stop-color="#1C2400" offset="38.12%"></stop>
+            <stop stop-color="#394800" offset="38.3%"></stop>
+            <stop stop-color="#526800" offset="38.5%"></stop>
+            <stop stop-color="#678400" offset="38.73%"></stop>
+            <stop stop-color="#799A00" offset="38.99%"></stop>
+            <stop stop-color="#86AB00" offset="39.29%"></stop>
+            <stop stop-color="#8FB600" offset="39.66%"></stop>
+            <stop stop-color="#95BD00" offset="40.17%"></stop>
+            <stop stop-color="#96BF00" offset="41.61%"></stop>
+            <stop stop-color="#96BF00" offset="44.91%"></stop>
+            <stop stop-color="#96BF00" offset="45.46%"></stop>
+            <stop stop-color="#95BD00" offset="46.62%"></stop>
+            <stop stop-color="#8FB600" offset="47.03%"></stop>
+            <stop stop-color="#86AB00" offset="47.33%"></stop>
+            <stop stop-color="#799A00" offset="47.57%"></stop>
+            <stop stop-color="#678400" offset="47.78%"></stop>
+            <stop stop-color="#526800" offset="47.96%"></stop>
+            <stop stop-color="#394800" offset="48.13%"></stop>
+            <stop stop-color="#1C2400" offset="48.28%"></stop>
+            <stop stop-color="#000000" offset="48.4%"></stop>
+            <stop stop-color="#1C2400" offset="48.54%"></stop>
+            <stop stop-color="#394800" offset="48.71%"></stop>
+            <stop stop-color="#526800" offset="48.91%"></stop>
+            <stop stop-color="#678400" offset="49.13%"></stop>
+            <stop stop-color="#799A00" offset="49.38%"></stop>
+            <stop stop-color="#86AB00" offset="49.67%"></stop>
+            <stop stop-color="#8FB600" offset="50.02%"></stop>
+            <stop stop-color="#95BD00" offset="50.52%"></stop>
+            <stop stop-color="#96BF00" offset="51.91%"></stop>
+            <stop stop-color="#96BF00" offset="58.13%"></stop>
+            <stop stop-color="#96BF00" offset="59.16%"></stop>
+            <stop stop-color="#95BD00" offset="60.77%"></stop>
+            <stop stop-color="#8FB600" offset="61.36%"></stop>
+            <stop stop-color="#86AB00" offset="61.77%"></stop>
+            <stop stop-color="#799A00" offset="62.11%"></stop>
+            <stop stop-color="#678400" offset="62.4%"></stop>
+            <stop stop-color="#526800" offset="62.65%"></stop>
+            <stop stop-color="#394800" offset="62.88%"></stop>
+            <stop stop-color="#1C2400" offset="63.09%"></stop>
+            <stop stop-color="#000000" offset="63.25%"></stop>
+            <stop stop-color="#1C2400" offset="63.45%"></stop>
+            <stop stop-color="#394800" offset="63.7%"></stop>
+            <stop stop-color="#526800" offset="63.97%"></stop>
+            <stop stop-color="#678400" offset="64.27%"></stop>
+            <stop stop-color="#799A00" offset="64.62%"></stop>
+            <stop stop-color="#86AB00" offset="65.02%"></stop>
+            <stop stop-color="#8FB600" offset="65.51%"></stop>
+            <stop stop-color="#95BD00" offset="66.21%"></stop>
+            <stop stop-color="#96BF00" offset="68.13%"></stop>
+            <stop stop-color="#96BF00" offset="75.39%"></stop>
+            <stop stop-color="#96BF00" offset="76.59%"></stop>
+            <stop stop-color="#95BD00" offset="77.93%"></stop>
+            <stop stop-color="#8FB600" offset="78.41%"></stop>
+            <stop stop-color="#86AB00" offset="78.76%"></stop>
+            <stop stop-color="#799A00" offset="79.04%"></stop>
+            <stop stop-color="#678400" offset="79.27%"></stop>
+            <stop stop-color="#526800" offset="79.49%"></stop>
+            <stop stop-color="#394800" offset="79.68%"></stop>
+            <stop stop-color="#1C2400" offset="79.85%"></stop>
+            <stop stop-color="#000000" offset="79.99%"></stop>
+            <stop stop-color="#1C2400" offset="80.25%"></stop>
+            <stop stop-color="#394800" offset="80.57%"></stop>
+            <stop stop-color="#526800" offset="80.94%"></stop>
+            <stop stop-color="#678400" offset="81.34%"></stop>
+            <stop stop-color="#799A00" offset="81.79%"></stop>
+            <stop stop-color="#86AB00" offset="82.32%"></stop>
+            <stop stop-color="#8FB600" offset="82.98%"></stop>
+            <stop stop-color="#95BD00" offset="83.9%"></stop>
+            <stop stop-color="#96BF00" offset="86.46%"></stop>
+            <stop stop-color="#95BD00" offset="87.92%"></stop>
+            <stop stop-color="#8FB600" offset="88.45%"></stop>
+            <stop stop-color="#86AB00" offset="88.83%"></stop>
+            <stop stop-color="#799A00" offset="89.13%"></stop>
+            <stop stop-color="#678400" offset="89.39%"></stop>
+            <stop stop-color="#526800" offset="89.62%"></stop>
+            <stop stop-color="#394800" offset="89.83%"></stop>
+            <stop stop-color="#1C2400" offset="90.02%"></stop>
+            <stop stop-color="#000000" offset="90.17%"></stop>
+            <stop stop-color="#1C2400" offset="90.35%"></stop>
+            <stop stop-color="#394800" offset="90.58%"></stop>
+            <stop stop-color="#526800" offset="90.84%"></stop>
+            <stop stop-color="#678400" offset="91.13%"></stop>
+            <stop stop-color="#799A00" offset="91.45%"></stop>
+            <stop stop-color="#86AB00" offset="91.83%"></stop>
+            <stop stop-color="#8FB600" offset="92.29%"></stop>
+            <stop stop-color="#95BD00" offset="92.95%"></stop>
+            <stop stop-color="#96BF00" offset="94.76%"></stop>
+            <stop stop-color="#96BF00" offset="99.26%"></stop>
+            <stop stop-color="#96BF00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0003397%" y1="100%" x2="50.0003397%" y2="0%" id="linearGradient-10">
+            <stop stop-color="#111111" offset="0.24%"></stop>
+            <stop stop-color="#1E1E1E" offset="100%"></stop>
+        </linearGradient>
+        <path d="M58.88,107 L58.879,113.12 L65,113.12 L65,117.88 L58.879,117.88 L58.88,124 L54.12,124 L54.119,117.88 L48,117.88 L48,113.12 L54.12,113.12 L54.12,107 L58.88,107 Z" id="path-11"></path>
+        <filter x="-38.2%" y="-38.2%" width="176.5%" height="176.5%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="2.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="8" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.300207605 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feGaussianBlur stdDeviation="2.5" in="SourceAlpha" result="shadowBlurInner2"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner2" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.349269701   0 0 0 0 0.345948711   0 0 0 0 0.345948711  0 0 0 0.36604021 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mini-split-guitar" transform="translate(-29.000000, 0.000000)">
+            <g id="mini-split-guitar-example" transform="translate(29.000000, 0.000000)">
+                <g id="right" transform="translate(158.000000, 86.000000)">
+                    <g id="body-3" fill="#031CA6">
+                        <path d="M12.8228424,32.2460611 C10.5930177,27.1709852 8.18785896,22.845987 8.18785896,20.4985722 C8.56983523,16.4932667 14.2537573,9.70681852 12.2457547,2.41690556 L12.2457547,2.41690556 C11.688408,0.785087037 10.799514,0.169451852 10.4148375,0.169451852 C10.1987078,0.345377778 10.2869039,0.5415 10.2739135,1.05738519 C10.2924504,3.62516481 9.1291524,12.6122 1.96461616,13.1147148 C1.1476803,13.1147148 0.274294571,13.0960315 0.274294571,13.0960315 L0.274294571,56.7682704 C15.2100116,55.0504944 15.6869711,48.3577796 15.7666285,40.4794648 L15.7666285,40.4794648 C15.4234775,36.8516611 13.9661804,34.848463 12.8228424,32.2460611 Z" id="Path"></path>
+                    </g>
+                    <g id="right_side_default_parts" transform="translate(3.799242, 24.492335)">
+                        <path d="M11.6567111,12.3320924 L11.209272,12.537785 L10.2445885,10.2908591 L10.5697865,10.1382961 C10.8322675,9.97823777 11.1792872,10.0498153 11.3508893,10.2994091 L12.0136188,11.6371146 C12.1071828,11.923579 11.949713,12.2302073 11.6567111,12.3320924 Z" id="volume_knob" fill="#191919" fill-rule="nonzero"></path>
+                        <ellipse id="tone_knob" fill="#191919" fill-rule="nonzero" cx="8.96390253" cy="16.4800387" rx="1.26554268" ry="1.22029259"></ellipse>
+                        <g id="pickup_selector">
+                            <polygon id="Rectangle" fill="#191919" fill-rule="nonzero" transform="translate(1.942523, 1.523869) rotate(-35.972200) translate(-1.942523, -1.523869) " points="1.91770492 0.153466966 1.91963939 0.153500258 1.96734196 2.89427173 1.96540749 2.89423844"></polygon>
+                            <path d="M2.87793472,2.58266463 C2.89304154,2.46961463 2.91187033,2.32391278 2.93310745,2.14988685 C2.93972147,2.09564118 2.92605891,2.04089904 2.89457412,1.99549426 C2.6363351,1.62414981 2.28778359,1.52439981 2.06716566,1.68681463 C1.82607689,1.81999056 1.77207184,2.17342574 2.02593207,2.54800722 C2.05618627,2.59263872 2.1016144,2.62571863 2.15441301,2.64156463 C2.32354369,2.691985 2.4629351,2.73515722 2.57087222,2.76928685 C2.63756912,2.79049413 2.71060395,2.781864 2.7700165,2.74575506 C2.82942906,2.70964612 2.86900734,2.64983379 2.87793472,2.58266463 L2.87793472,2.58266463 Z" id="Path" fill="#1C1C1C"></path>
+                        </g>
+                        <ellipse id="hole_for_tone" fill="#191919" fill-rule="nonzero" cx="8.88482891" cy="16.4800387" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="add-ons" transform="translate(1.094697, 12.314815)">
+                        <g id="Fuzz_Pedal" transform="translate(0.729798, 27.444444)">
+                            <g id="fuzz_knobs" transform="translate(0.000000, 11.962963)">
+                                <g id="fuzz_knob">
+                                    <ellipse id="Oval" fill="#191919" fill-rule="nonzero" cx="1.408875" cy="1.2285963" rx="1.26557917" ry="1.22032778"></ellipse>
+                                    <path d="M0.860869697,2.14383333 L0.860869697,2.14383333 C1.13443179,1.99155472 1.46281955,1.96045692 1.76187828,2.05850926 C1.9568803,2.14383333 1.9568803,2.14383333 1.9948298,1.86808704 C2.07048515,1.59827604 2.25389176,1.36834348 2.5049221,1.2285963 L2.5049221,1.2285963 C2.1658005,1.03982175 1.95688703,0.690933498 1.9568803,0.313359259 L1.9568803,0.313359259 C1.61776941,0.502127853 1.19998059,0.502127853 0.860869697,0.313359259 L0.860869697,0.313359259 C0.860862965,0.690924296 0.651966434,1.03980749 0.312864394,1.2285963 L0.312864394,1.2285963 C0.651971944,1.41737979 0.860870492,1.76626635 0.860869697,2.14383333 Z" id="Path" stroke="#000000" stroke-width="0.0765" fill="#191919" fill-rule="nonzero"></path>
+                                    <line x1="1.50947765" y1="1.39685185" x2="1.91334785" y2="2.07198519" id="Path" stroke="#FFFFFF" stroke-width="0.2792" stroke-linecap="round"></line>
+                                    <line x1="1.95779255" y1="2.14235556" x2="2.04642652" y2="2.28295556" id="Path" stroke="#FFFFFF" stroke-width="0.1529"></line>
+                                </g>
+                            </g>
+                            <g id="fuzz_knobs-2" transform="translate(0.000000, 8.796296)">
+                                <g id="fuzz_knob-2">
+                                    <ellipse id="Oval" fill="#191919" fill-rule="nonzero" cx="1.408875" cy="1.49702407" rx="1.26557917" ry="1.22032778"></ellipse>
+                                    <path d="M1.408875,0.440201852 L1.408875,0.440201852 C1.25093492,0.703963844 0.982668828,0.889207385 0.672837247,0.948451852 C0.459699747,0.968612963 0.459699747,0.968612963 0.569826263,1.22571111 C0.644225077,1.49584024 0.604628203,1.78338746 0.459699747,2.02543519 L0.459699747,2.02543519 C0.851267418,2.02543442 1.21309116,2.2268637 1.408875,2.5538463 L1.408875,2.5538463 C1.60466985,2.22687432 1.96648662,2.02544893 2.35805025,2.02543519 L2.35805025,2.02543519 C2.16228187,1.69844936 2.16228187,1.29559879 2.35805025,0.968612963 L2.35805025,0.968612963 C1.96648662,0.968599216 1.60466985,0.767173824 1.408875,0.440201852 L1.408875,0.440201852 Z" id="Path" stroke="#000000" stroke-width="0.0765" fill="#191919" fill-rule="nonzero"></path>
+                                    <line x1="1.23456275" y1="1.39987778" x2="0.53472298" y2="1.00992037" id="Path" stroke="#FFFFFF" stroke-width="0.2792" stroke-linecap="round"></line>
+                                    <line x1="0.459699747" y1="0.970301852" x2="0.310054672" y2="0.891275926" id="Path" stroke="#FFFFFF" stroke-width="0.1529"></line>
+                                </g>
+                            </g>
+                            <g id="fuzz_knobs-3" transform="translate(0.000000, 5.981481)">
+                                <g id="fuzz_knob-3">
+                                    <ellipse id="Oval" fill="#191919" fill-rule="nonzero" cx="1.408875" cy="1.26110741" rx="1.26557917" ry="1.22032778"></ellipse>
+                                    <path d="M0.459772727,0.732696296 L0.459772727,0.732696296 C0.617696472,0.996464725 0.649947576,1.31309957 0.548260732,1.6014537 C0.459772727,1.78951852 0.459772727,1.78951852 0.745744066,1.82607593 C1.02556543,1.89901566 1.26402795,2.07586726 1.40894798,2.31792963 L1.40894798,2.31792963 C1.60474283,1.99095766 1.9665596,1.78953227 2.35812323,1.78951852 L2.35812323,1.78951852 C2.16235485,1.4625327 2.16235485,1.05968212 2.35812323,0.732696296 L2.35812323,0.732696296 C1.96655005,0.732682548 1.60472805,0.531240827 1.40894798,0.20425 L1.40894798,0.20425 C1.21317893,0.531251453 0.851349942,0.732697064 0.459772727,0.732696296 Z" id="Path" stroke="#000000" stroke-width="0.0765" fill="#191919" fill-rule="nonzero"></path>
+                                    <line x1="1.23448977" y1="1.35814815" x2="0.534321591" y2="1.74761296" id="Path" stroke="#FFFFFF" stroke-width="0.2792" stroke-linecap="round"></line>
+                                    <line x1="0.461232323" y1="1.79036296" x2="0.315418687" y2="1.87582778" id="Path" stroke="#FFFFFF" stroke-width="0.1529"></line>
+                                </g>
+                            </g>
+                            <g id="fuzz_knobs-4" transform="translate(0.000000, 2.814815)">
+                                <g id="fuzz_knob-4">
+                                    <ellipse id="Oval" fill="#191919" fill-rule="nonzero" cx="1.408875" cy="1.52957037" rx="1.26557917" ry="1.22032778"></ellipse>
+                                    <path d="M1.408875,0.472712963 L1.408875,0.472712963 C1.25094995,0.736494682 0.982679329,0.921754178 0.672837247,0.980998148 C0.459699747,1.00115926 0.459699747,1.00115926 0.569826263,1.25822222 C0.644231112,1.52836254 0.604634177,1.81592286 0.459699747,2.05798148 L0.459699747,2.05798148 C0.851267418,2.05798072 1.21309116,2.25941 1.408875,2.58639259 L1.408875,2.58639259 C1.60466985,2.25942062 1.96648662,2.05799523 2.35805025,2.05798148 L2.35805025,2.05798148 C2.16228187,1.73099566 2.16228187,1.32814508 2.35805025,1.00115926 L2.35805025,1.00115926 C1.96647707,1.00114551 1.60465507,0.79970379 1.408875,0.472712963 L1.408875,0.472712963 Z" id="Path" stroke="#000000" stroke-width="0.0765" fill="#191919" fill-rule="nonzero"></path>
+                                    <line x1="1.23456275" y1="1.43242407" x2="0.53472298" y2="1.04246667" id="Path" stroke="#FFFFFF" stroke-width="0.2792" stroke-linecap="round"></line>
+                                    <line x1="0.459699747" y1="1.00284815" x2="0.310054672" y2="0.923822222" id="Path" stroke="#FFFFFF" stroke-width="0.1529"></line>
+                                </g>
+                            </g>
+                            <g id="fuzz_knobs-5">
+                                <g id="fuzz_knob-5">
+                                    <ellipse id="Oval" fill="#191919" fill-rule="nonzero" cx="1.408875" cy="1.44618148" rx="1.26554268" ry="1.22029259"></ellipse>
+                                    <path d="M2.50488561,1.44611111 L2.50488561,1.44611111 C2.23133314,1.29382871 2.03921692,1.03514975 1.97778902,0.736390741 C1.9568803,0.530874074 1.9568803,0.530874074 1.69024861,0.637062963 C1.41011512,0.70880752 1.11191415,0.67062591 0.860906187,0.530874074 L0.860906187,0.530874074 C0.860899455,0.908439111 0.652002924,1.25732231 0.312900884,1.44611111 L0.312900884,1.44611111 C0.652002654,1.634883 0.860901472,1.98375661 0.860906187,2.36131296 L0.860906187,2.36131296 C1.20000378,2.1725434 1.61778271,2.1725434 1.9568803,2.36131296 L1.9568803,2.36131296 C1.95688502,1.98375661 2.16578384,1.634883 2.50488561,1.44611111 L2.50488561,1.44611111 Z" id="Path" stroke="#000000" stroke-width="0.0765" fill="#191919" fill-rule="nonzero"></path>
+                                    <line x1="1.50962361" y1="1.27810185" x2="1.91404116" y2="0.603285185" id="Path" stroke="#FFFFFF" stroke-width="0.2791" stroke-linecap="round"></line>
+                                    <line x1="1.95512879" y1="0.530944444" x2="2.0370851" y2="0.38665" id="Path" stroke="#FFFFFF" stroke-width="0.1529"></line>
+                                </g>
+                            </g>
+                            <g id="fuzz_on_off" transform="translate(3.648990, 5.629630)">
+                                <path d="M1.32020455,0.0293092593 L1.05047121,0.0293092593 C0.937427153,0.138343047 0.784087883,0.199601882 0.624196212,0.199605556 L0.43346351,0.383518519 C0.4334597,0.537693186 0.369929306,0.685549737 0.256852399,0.794551852 L0.256852399,1.05464074 C0.369928051,1.16365805 0.433457351,1.31152471 0.43346351,1.46570926 L0.624196212,1.64962222 C0.784079455,1.64963203 0.937412094,1.71087556 1.05047121,1.81988333 L1.32020455,1.81988333 C1.43327714,1.71087349 1.58662174,1.64963042 1.74651604,1.64962222 L1.93724874,1.46570926 C1.9372549,1.31152471 2.0007842,1.16365805 2.11385985,1.05464074 L2.11385985,0.794551852 C2.00078294,0.685549737 1.93725255,0.537693186 1.93724874,0.383518519 L1.74651604,0.199605556 C1.58661411,0.199599616 1.43326436,0.138341837 1.32020455,0.0293092593 L1.32020455,0.0293092593 Z" id="Path" fill="#191919"></path>
+                                <path d="M0.963333333,1.22557037 L0.850433586,1.75011111 C0.849010528,1.75667219 0.850353907,1.76350962 0.854167194,1.76911415 C0.857980481,1.77471868 0.863950136,1.77862949 0.87075846,1.77998333 L1.02894217,1.81165 C1.03513115,1.81288725 1.04157637,1.81170276 1.04685951,1.80835719 C1.05214265,1.80501162 1.05583081,1.79977911 1.05711237,1.79381111 L1.17048649,1.26701852 L0.963333333,1.22557037 Z" id="nick" fill="#FFFFFF"></path>
+                            </g>
+                            <g id="toggle-_kill" transform="translate(4.013889, 3.518519)">
+                                <ellipse id="Oval" fill="#191919" fill-rule="nonzero" cx="0.728776263" cy="0.761337037" rx="1" ry="1"></ellipse>
+                                <g id="Group">
+                                    <polygon id="Path" fill="#03196B" points="0.535306818 1.24766667 0.236819444 0.970407407 0.228426768 0.571055556 0.515967172 0.282888889 0.930127525 0.275148148 1.2286149 0.552055556 1.23700758 0.951407407 0.941804293 1.24766667"></polygon>
+                                    <path d="M1.03312145,0.311890721 L1.35135092,0.62980307 L1.35135092,1.07945464 L1.03312145,1.39740857 L0.582761366,1.39740857 L0.264323682,1.07945464 L0.264323682,0.62980307 L0.582761366,0.311890721 L1.03312145,0.311890721 M1.05956423,0.248266667 L0.556318587,0.248266667 L0.537829463,0.266896455 L0.219391779,0.584808804 L0.200694444,0.603438592 L0.200694444,1.10577753 L0.219391779,1.12440732 L0.537829463,1.44240284 L0.556318587,1.46103262 L1.05956423,1.46103262 L1.07826156,1.44240284 L1.39649103,1.12440732 L1.41498016,1.10577753 L1.41498016,0.603563345 L1.39649103,0.584933557 L1.07826156,0.267021208 L1.05956423,0.24839142 L1.05956423,0.248266667 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                                </g>
+                                <ellipse id="Oval" fill="#000000" fill-rule="nonzero" cx="0.728776263" cy="0.761337037" rx="1" ry="1"></ellipse>
+                                <ellipse id="Oval" fill="#333333" fill-rule="nonzero" cx="0.728776263" cy="0.761337037" rx="1" ry="1"></ellipse>
+                                <g id="Group" transform="translate(0.000000, 0.351852)">
+                                    <path d="M0.0630545455,1.10235185 L0.348588005,0.465816667 C0.388325505,0.370288889 0.413868434,0.308609259 0.509544949,0.308609259 L0.956035354,0.308609259 C1.02507424,0.308609259 1.04824533,0.391787037 1.06079785,0.464268519 L1.22624306,1.10235185 L0.0630545455,1.10235185 Z" id="Path" fill="#333333"></path>
+                                    <path d="M0.988348967,0.322012782 C1.05425275,0.322012782 1.07716594,0.442702581 1.09009715,0.549330406 L1.25899686,1.49439021 L0.0846768957,1.49439021 L0.365495828,0.552132228 C0.369276882,0.540079107 0.372490779,0.528025987 0.37600716,0.516025731 C0.40572625,0.411935405 0.431399611,0.322012782 0.525547873,0.322012782 L0.988348967,0.322012782 M0.988348967,0.301818519 L0.525699115,0.301818519 C0.410112273,0.301818519 0.38776624,0.425310139 0.352337757,0.544414002 L0.0632005051,1.51458448 L1.27748622,1.51458448 L1.10412486,0.544414002 C1.09119365,0.437151802 1.06631431,0.301818519 0.988348967,0.301818519 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                                </g>
+                                <g id="toggle" transform="translate(0.000000, 1.055556)">
+                                    <path d="M0.123262879,0.73245 C0.0955013711,0.732229882 0.0729609704,0.704120652 0.0725054293,0.669152419 L0.0715102073,0.554922581 C0.0711006579,0.513382201 0.0839044677,0.473360324 0.107072149,0.443795058 C0.130239831,0.414229792 0.161841512,0.397583929 0.194819571,0.397575 L1.1339601,0.397575 C1.15883897,0.397597105 1.18267553,0.410164181 1.20015062,0.432471863 C1.21762571,0.454779546 1.22728494,0.48497126 1.22698019,0.516309677 L1.2257322,0.669152419 C1.22527631,0.704138413 1.20271399,0.732254766 1.17493826,0.73245 L0.123262879,0.73245 Z" id="Path" fill="#262626"></path>
+                                    <path d="M1.17508578,0.43526079 C1.19895513,0.435224099 1.22183679,0.465754579 1.23862933,0.520045494 C1.25542187,0.574336409 1.26472912,0.647873918 1.26448108,0.724262918 L1.26314979,1.12787143 C1.26277896,1.20753219 1.24257048,1.2716161 1.21767784,1.2720693 L0.125479544,1.2720693 C0.10062423,1.27155447 0.0804391718,1.20765251 0.0800075959,1.12811398 L0.0790525478,0.826135258 C0.0786956244,0.722830399 0.0912684065,0.623358003 0.113972474,0.549919445 C0.136676542,0.476480887 0.167621954,0.435189365 0.199901965,0.43526079 L1.17516157,0.43526079 M1.17516157,0.38893313 L0.199901965,0.38893313 C0.163756637,0.388859862 0.129107961,0.435123139 0.103695732,0.517388709 C0.0782835023,0.599654278 0.0642250761,0.711067739 0.0646509781,0.826741641 L0.0655702524,1.12859909 C0.0659844917,1.23367115 0.0926847502,1.31820643 0.125517437,1.31839696 L1.21767784,1.31839696 C1.25054197,1.31833658 1.2772721,1.23365265 1.27762502,1.12847781 L1.27892049,0.724748024 C1.27923763,0.636001095 1.26844353,0.550534837 1.24894172,0.487436109 C1.22943991,0.424337382 1.20285484,0.38886221 1.17512367,0.38893313 L1.17516157,0.38893313 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="arcade_live_button" transform="translate(0.000000, 21.462963)" fill-rule="nonzero">
+                            <ellipse id="Oval" fill="url(#radialGradient-1)" cx="2.13867298" cy="2.10790926" rx="2.07627525" ry="2.00203704"></ellipse>
+                            <ellipse id="Oval" fill="url(#radialGradient-2)" cx="2.13867298" cy="2.10790926" rx="1.74655253" ry="1.6841037"></ellipse>
+                        </g>
+                        <g id="toggle-_kill-2" transform="translate(5.838384, 0.000000)">
+                            <ellipse id="Oval" fill="#191919" fill-rule="nonzero" cx="0.89947601" cy="0.817211111" rx="1" ry="1"></ellipse>
+                            <g id="Group" transform="translate(0.364899, 0.000000)">
+                                <polygon id="Path" fill="#03196B" points="0.337166667 1.29974074 0.0386792929 1.02248148 0.0302866162 0.62312963 0.317462121 0.334962963 0.731987374 0.327222222 1.03047475 0.60412963 1.03886742 1.00348148 0.743299242 1.29974074"></polygon>
+                                <path d="M0.834814728,0.363894425 L1.15321077,0.681806773 L1.15321077,1.13145834 L0.834814728,1.44945386 L0.384621214,1.44945386 L0.0662251728,1.13145834 L0.0662251728,0.681806773 L0.384621214,0.363894425 L0.834814728,0.363894425 M0.861215865,0.30027037 L0.358178436,0.30027037 L0.339689312,0.318900159 L0.02129327,0.636854092 L0.00255429293,0.65548388 L0.00255429293,1.15782282 L0.02129327,1.17645261 L0.339689312,1.49440654 L0.358178436,1.51303633 L0.861215865,1.51303633 L0.879746631,1.49440654 L1.19814267,1.17645261 L1.21684001,1.15782282 L1.21684001,0.65548388 L1.19814267,0.636854092 L0.879746631,0.318900159 L0.861215865,0.30027037 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                            </g>
+                            <ellipse id="Oval" fill="#000000" fill-rule="nonzero" cx="0.89947601" cy="0.817211111" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval" fill="#333333" fill-rule="nonzero" cx="0.89947601" cy="0.817211111" rx="1" ry="1"></ellipse>
+                            <g id="Group" transform="translate(0.729798, 0.000000)">
+                                <path d="M0.228134848,1.18377037 C0.129174242,1.1454537 0.065025,1.12089444 0.065025,1.02863889 L0.065025,0.598148148 C0.065025,0.531648148 0.151323611,0.509305556 0.226602273,0.497307407 L0.896812247,0.335631481 L0.888273611,1.44889074 L0.228134848,1.18377037 Z" id="Path" fill="#333333"></path>
+                                <path d="M1.25213703,0.347552104 L1.25213703,1.5203293 L0.308662857,1.23987929 C0.296543286,1.23610321 0.284370792,1.23281801 0.272251221,1.22934401 C0.168097007,1.19966396 0.0781793193,1.17402433 0.0781793193,1.07999976 L0.0781793193,0.617844433 C0.0781793193,0.566338602 0.147933005,0.535148121 0.305752043,0.516343206 L1.25203118,0.347589865 M1.27219518,0.329087037 L0.300830121,0.502333922 C0.193288778,0.515097097 0.0579094697,0.540094795 0.0579094697,0.617844433 L0.0579094697,1.07984871 C0.0579094697,1.19535922 0.181698447,1.21763814 0.300830121,1.25305784 L1.27219518,1.54185299 L1.27219518,0.329087037 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                            </g>
+                            <g id="toggle-2" transform="translate(1.459596, 0.000000)">
+                                <path d="M0.237952778,1.45093148 C0.149920297,1.45083442 0.0786249036,1.39763364 0.078625,1.33204074 L0.078625,0.42647963 C0.0787291269,0.376951549 0.13261693,0.336831332 0.199088889,0.336792593 L0.357377778,0.337988889 C0.39335551,0.338390617 0.422295652,0.36015714 0.422497222,0.386966667 L0.422497222,1.40110926 C0.422296661,1.42789185 0.393412999,1.44964745 0.357472222,1.45008704 L0.237952778,1.45093148 Z" id="Path" fill="#262626"></path>
+                                <path d="M0.402104023,0.330107411 L0.405018308,0.344563572 L0.809375451,0.345888089 C0.889251159,0.3462173 0.953596269,0.366405111 0.954118308,0.391300112 L0.954118308,1.48198336 C0.953531709,1.50686998 0.889223851,1.52704611 0.809375451,1.52739538 L0.50349688,1.52841715 C0.289553787,1.52841715 0.116043466,1.47441026 0.115775451,1.4077347 L0.115775451,0.433760352 C0.116043015,0.384518142 0.24409965,0.344626071 0.402104023,0.344563572 L0.402104023,0.330107411 M0.402104023,0.330107384 C0.313875157,0.330087311 0.229241384,0.341001403 0.166854138,0.360444459 C0.104466892,0.379887515 0.0694466706,0.406263726 0.0695111655,0.433760352 L0.0695111655,1.4077347 C0.0697791436,1.4823794 0.263983091,1.54285248 0.50349688,1.54287331 L0.508232594,1.54287331 L0.809982594,1.54185154 C0.915356537,1.54151983 1.00025491,1.51482492 1.00038259,1.48198336 L1.00038259,0.391337955 C1.00025491,0.358496395 0.915356537,0.331801481 0.809982594,0.331469772 L0.405625451,0.330145255 L0.402104023,0.330107384 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Combined-Shape-Copy">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                </g>
+                <g id="middle" transform="translate(85.000000, 0.000000)">
+                    <g id="body" transform="translate(0.000000, 84.947981)" fill-rule="nonzero">
+                        <g id="body-2" fill="#F13005">
+                            <path d="M4.27514586,0.268073547 L11.4554496,0.268073547 L11.4554496,7.99346577 C11.4432057,9.53068059 11.9121081,11.0293995 12.7897744,12.2582722 C13.6487338,13.8778194 15.4664632,14.6990644 15.4664632,14.6990644 L15.4664632,57.9113017 C15.4664632,57.9113017 13.4356812,58.1406264 7.85300752,58.1406264 C2.27033383,58.1406264 0.263834586,57.6734474 0.263834586,57.6734474 L0.263834586,7.97222877 C0.263834586,7.97222877 1.38815038,8.05578416 2.73623759,6.8362236 C3.33754646,6.20271232 3.85518604,5.48699682 4.27524511,4.70831148 L4.27514586,0.268073547 Z" id="Path"></path>
+                        </g>
+                        <rect id="plate" fill="#CE2105" x="0.263735338" y="14.6987859" width="15.2027609" height="18.8638829"></rect>
+                        <g id="bridge_hole" transform="translate(0.992481, 35.162894)">
+                            <polygon id="Rectangle" fill="#000033" transform="translate(6.872734, 8.783325) rotate(90.000000) translate(-6.872734, -8.783325) " points="4.53330473 3.76358698 9.21216294 3.76358698 9.21216294 13.8030637 4.53330473 13.8030637"></polygon>
+                            <rect id="Rectangle" fill="#000033" x="0.211960902" y="0.104792387" width="13.6251128" height="6.33910383"></rect>
+                            <g id="Rectangle_11" fill="#000000">
+                                <rect id="Rectangle" x="0.211993985" y="0.104792387" width="13.6251459" height="2.56581199"></rect>
+                            </g>
+                            <rect id="hole" fill="#000000" x="2.39505564" y="2.67063919" width="10.7566767" height="3.77329184"></rect>
+                        </g>
+                    </g>
+                    <g id="neck" transform="translate(1.654135, 0.000000)">
+                        <g id="neck-body" transform="translate(1.984962, 26.111060)" fill="#000000" fill-rule="nonzero">
+                            <g id="neck-2">
+                                <polygon id="Path" points="7.23882707 0.0637109859 1.21512782 0.0637109859 0.210075188 73.9959582 8.24189474 73.9959582"></polygon>
+                            </g>
+                        </g>
+                        <g id="frets" transform="translate(1.984962, 31.333272)" fill="#FFFFFF">
+                            <polygon id="Path" points="8.22899248 67.8212148 0.223308271 67.8212148 0.224300752 67.7411409 8.228 67.7411409"></polygon>
+                            <polygon id="Path" points="8.21542857 66.8202909 0.23687218 66.8202909 0.237864662 66.7402169 8.21443609 66.7402169"></polygon>
+                            <polygon id="Path" points="8.19425564 65.2508421 0.258045113 65.2508421 0.259368421 65.1707682 8.19293233 65.1707682"></polygon>
+                            <polygon id="Path" points="8.17209023 63.6187268 0.280210526 63.6187268 0.281533835 63.5386529 8.17076692 63.5386529"></polygon>
+                            <polygon id="Path" points="8.1486015 61.8898265 0.303699248 61.8898265 0.305022556 61.8097526 8.1472782 61.8097526"></polygon>
+                            <polygon id="Path" points="8.12378947 60.0578745 0.328842105 60.0578745 0.329834586 59.9781488 8.12246617 59.9781488"></polygon>
+                            <polygon id="Path" points="8.09732331 58.1173006 0.354977444 58.1173006 0.356300752 58.0372266 8.09633083 58.0372266"></polygon>
+                            <polygon id="Path" points="8.06953383 56.0611416 0.383097744 56.0611416 0.384090226 55.9810677 8.06821053 55.9810677"></polygon>
+                            <polygon id="Path" points="8.0397594 53.882783 0.412541353 53.882783 0.413864662 53.802709 8.03876692 53.802709"></polygon>
+                            <polygon id="Path" points="8.00866165 51.5749134 0.443969925 51.5749134 0.444962406 51.4948395 8.00733835 51.4948395"></polygon>
+                            <polygon id="Path" points="7.97524812 49.1295256 0.477383459 49.1295256 0.47837594 49.0494517 7.97425564 49.0494517"></polygon>
+                            <polygon id="Path" points="7.94018045 46.5389604 0.512451128 46.5389604 0.513443609 46.4588864 7.93918797 46.4588864"></polygon>
+                            <polygon id="Path" points="7.90312782 43.7941658 0.549834586 43.7941658 0.550827068 43.71444 7.90180451 43.71444"></polygon>
+                            <polygon id="Path" points="7.86342857 40.8864381 0.589203008 40.8864381 0.590195489 40.8063642 7.86243609 40.8063642"></polygon>
+                            <polygon id="Path" points="7.82174436 37.8056812 0.631218045 37.8056812 0.632210526 37.7256073 7.82075188 37.7256073"></polygon>
+                            <polygon id="Path" points="7.77741353 34.5417988 0.675548872 34.5417988 0.676541353 34.4617248 7.77642105 34.4617248"></polygon>
+                            <polygon id="Path" points="7.73043609 31.08365 0.722526316 31.08365 0.723518797 31.0039242 7.72944361 31.0039242"></polygon>
+                            <polygon id="Path" points="7.68081203 27.4200942 0.772150376 27.4200942 0.773473684 27.3400203 7.67981955 27.3400203"></polygon>
+                            <polygon id="Path" points="7.62821053 23.5385982 0.825082707 23.5385982 0.826075188 23.4585243 7.62688722 23.4585243"></polygon>
+                            <polygon id="Path" points="7.57230075 19.4262803 0.880992481 19.4262803 0.881984962 19.3462064 7.57130827 19.3462064"></polygon>
+                            <polygon id="Path" points="7.51308271 15.069563 0.940210526 15.069563 0.941203008 14.9894891 7.51209023 14.9894891"></polygon>
+                            <polygon id="Path" points="7.45055639 10.4534757 1.00273684 10.4534757 1.00406015 10.3734018 7.44956391 10.3734018"></polygon>
+                            <polygon id="Path" points="7.38406015 5.56304832 1.06923308 5.56304832 1.07022556 5.48332255 7.38306767 5.48332255"></polygon>
+                            <polygon id="Path" points="7.31425564 0.410814007 1.13936842 0.410814007 1.1403609 0.330740091 7.31326316 0.330740091"></polygon>
+                        </g>
+                        <g id="necklocks" transform="translate(2.977444, 23.674028)" fill-rule="nonzero">
+                            <g id="Shape_4" fill="#0F30D1">
+                                <rect id="Rectangle" x="0.221687218" y="0.085922794" width="6.02386466" height="2.41492488"></rect>
+                            </g>
+                            <g id="teeth_1" transform="translate(0.000000, 2.088885)" fill="#000000">
+                                <rect id="Rectangle" x="5.74421654" y="0.18972" width="1" height="1"></rect>
+                                <rect id="Rectangle" x="4.74028872" y="0.18972" width="1.0039609" height="1"></rect>
+                                <rect id="Rectangle" x="2.73236692" y="0.18972" width="1.0039609" height="1"></rect>
+                                <rect id="Rectangle" x="3.73632782" y="0.18972" width="1.0039609" height="1"></rect>
+                                <rect id="Rectangle" x="1.72840602" y="0.18972" width="1.0039609" height="1"></rect>
+                                <rect id="Rectangle" x="0.724445113" y="0.18972" width="1.0039609" height="1"></rect>
+                                <rect id="Rectangle" x="0.221025564" y="0.18972" width="1" height="1"></rect>
+                            </g>
+                            <g id="teeth_1-2" fill="#000000">
+                                <rect id="Rectangle" x="5.7435218" y="0.14808" width="1" height="1"></rect>
+                                <rect id="Rectangle" x="4.7395609" y="0.14808" width="1.0039609" height="1"></rect>
+                                <rect id="Rectangle" x="2.7316391" y="0.14808" width="1.0039609" height="1"></rect>
+                                <rect id="Rectangle" x="3.7356" y="0.14808" width="1.0039609" height="1"></rect>
+                                <rect id="Rectangle" x="1.7276782" y="0.14808" width="1.0039609" height="1"></rect>
+                                <rect id="Rectangle" x="0.723750376" y="0.14808" width="1.0039609" height="1"></rect>
+                                <rect id="Rectangle" x="0.221753383" y="0.14808" width="1" height="1"></rect>
+                            </g>
+                        </g>
+                        <g id="head-chooser" fill="#000000" fill-rule="nonzero">
+                            <path d="M3.21335639,22.5022676 C1.98393684,20.9123478 1.02794586,19.9183868 0.200481203,18.6008575 C-0.0276105117,18.2398916 -0.0112052185,17.7659672 0.241239098,17.4234228 C2.66289323,14.1495833 13.3033173,0.61775286 13.3033173,0.61775286 C14.6988606,-0.205928702 16.4011665,-0.205928702 17.7967098,0.61775286 C20.1206376,2.19291124 18.6915308,3.50351237 18.2473293,4.39330766 C17.7967098,5.27708 9.4923218,19.8023144 9.26057744,20.7460725 C9.2541594,21.7621061 9.22292932,23.7599503 9.22292932,23.7599503 L3.19909774,23.7599503" id="hockey-blade-head"></path>
+                        </g>
+                        <g id="headstock" transform="translate(0.000000, 3.481475)">
+                            <g id="tuner" transform="translate(0.000000, 11.488866)" fill="#000000" fill-rule="nonzero">
+                                <path d="M0.14556391,1.53696661 L0.520754887,1.83170825 C0.54335415,1.84948979 0.571744551,1.85708527 0.599669654,1.85282088 C0.627594757,1.84855648 0.652762658,1.83278219 0.669627068,1.80897422 L1.40290526,0.775289587 C1.41980217,0.751507143 1.42701978,0.721630368 1.42296753,0.692243251 C1.41891529,0.662856133 1.40392578,0.636370572 1.38130226,0.618623228 L1.00614436,0.323881586 C0.932591953,0.266096631 0.840238654,0.241427714 0.749402198,0.255301998 C0.658565743,0.269176281 0.576687413,0.320457191 0.521780451,0.397862922 L0.0754285714,1.02710465 C0.0204504898,1.10449252 -0.0030482411,1.20170136 0.0101060431,1.29732889 C0.0232603273,1.39295641 0.0719891202,1.47916224 0.14556391,1.53696661 Z" id="Path"></path>
+                                <polygon id="Rectangle" transform="translate(1.342604, 1.532800) rotate(-143.257700) translate(-1.342604, -1.532800) " points="0.478973055 1.29360992 2.19564566 1.33590161 2.20623435 1.77198933 0.489561753 1.72969764"></polygon>
+                            </g>
+                            <g id="tuner-2" transform="translate(1.654135, 9.051834)" fill="#000000" fill-rule="nonzero">
+                                <path d="M0.26032782,1.60530796 L0.627082707,1.91167772 C0.649157602,1.93011876 0.677290011,1.93857528 0.705290164,1.93518664 C0.733290318,1.93179801 0.758864195,1.91684185 0.776384962,1.89360887 L1.53834586,0.883145671 C1.55587616,0.859908576 1.56391269,0.830292594 1.56068619,0.800817763 C1.5574597,0.771342932 1.5432347,0.744425678 1.52114286,0.725991906 L1.15442105,0.419622138 C1.08251984,0.359545047 0.990881148,0.331995405 0.899673852,0.34303665 C0.808466556,0.354077895 0.725165765,0.402805117 0.668105263,0.478493874 L0.204285714,1.09363563 C0.14723973,1.16930779 0.12109596,1.26572881 0.131605941,1.36168641 C0.142115922,1.45764402 0.188418695,1.54527755 0.26032782,1.60530796 L0.26032782,1.60530796 Z" id="Path"></path>
+                                <polygon id="Rectangle" transform="translate(1.456823, 1.638313) rotate(-141.566600) translate(-1.456823, -1.638313) " points="0.591850639 1.39910578 2.31104013 1.4420636 2.32179561 1.87752116 0.602606119 1.83456333"></polygon>
+                            </g>
+                            <g id="tuner-3" transform="translate(3.639098, 6.962949)" fill="#000000" fill-rule="nonzero">
+                                <path d="M0.146027068,1.27105158 L0.503651128,1.58904947 C0.548492012,1.62889629 0.615535065,1.62295842 0.653416541,1.57578505 L1.44455639,0.590527728 C1.46276067,0.567878528 1.47166418,0.538543684 1.46930628,0.508983003 C1.46694839,0.479422323 1.45352244,0.452059963 1.43198496,0.432921371 L1.07439398,0.114923478 C0.928390341,-0.0148828119 0.710044079,0.00441209727 0.586655639,0.158024134 L0.105070677,0.757812584 C-0.0182929911,0.911442418 4.36330969e-05,1.14122513 0.146027068,1.27105158 L0.146027068,1.27105158 Z" id="Path"></path>
+                                <polygon id="Rectangle" transform="translate(1.340997, 1.342798) rotate(-139.801400) translate(-1.340997, -1.342798) " points="0.474624996 1.10365616 2.19647877 1.14714965 2.20736837 1.58194014 0.485514592 1.53844665"></polygon>
+                            </g>
+                            <g id="tuner-4" transform="translate(5.293233, 4.525917)" fill="#000000" fill-rule="nonzero">
+                                <path d="M0.314285714,1.43579496 L0.677765414,1.74634249 C0.723325041,1.78526639 0.790242118,1.77795625 0.827233083,1.73001438 L1.59991278,0.728603012 C1.61768522,0.705576898 1.62603533,0.67606289 1.62312539,0.646556568 C1.62021546,0.617050245 1.60628396,0.589969783 1.58439699,0.571275173 L1.22095038,0.260727636 C1.07256297,0.133949569 0.854616356,0.157733141 0.734105263,0.313854939 L0.263768421,0.923495962 C0.143289902,1.07964403 0.165907187,1.30900731 0.314285714,1.43579496 L0.314285714,1.43579496 Z" id="Path"></path>
+                                <polygon id="Rectangle" transform="translate(1.510216, 1.482885) rotate(-140.924600) translate(-1.510216, -1.482885) " points="0.644734263 1.24369113 2.36488888 1.28686276 2.37569789 1.72207868 0.655543274 1.67890705"></polygon>
+                            </g>
+                            <g id="tuner-5" transform="translate(6.947368, 2.088885)" fill="#000000" fill-rule="nonzero">
+                                <path d="M0.430902256,1.53003847 L0.794348872,1.84058601 C0.816229434,1.85928892 0.844275114,1.8680762 0.872313492,1.86501392 C0.90035187,1.86195163 0.926085074,1.84729075 0.943849624,1.8242579 L1.71649624,0.822846531 C1.73427719,0.799824045 1.74263271,0.770307738 1.7397225,0.740798596 C1.73681229,0.711289453 1.72287504,0.68420791 1.70098045,0.665518692 L1.33753383,0.354971154 C1.18915724,0.228196786 0.971220971,0.251980845 0.850721805,0.408098457 L0.380451128,1.01773948 C0.322579232,1.09271214 0.295382011,1.18880902 0.304843656,1.28488599 C0.314305301,1.38096295 0.359650603,1.46914823 0.430902256,1.53003847 L0.430902256,1.53003847 Z" id="Path"></path>
+                                <polygon id="Rectangle" transform="translate(1.626928, 1.577132) rotate(-140.924600) translate(-1.626928, -1.577132) " points="0.76144607 1.33793817 2.48160069 1.3811098 2.4924097 1.81632572 0.772255081 1.77315409"></polygon>
+                            </g>
+                            <g id="tuner-6" transform="translate(8.932331, 0.000000)" fill="#000000" fill-rule="nonzero">
+                                <path d="M0.317990977,1.27613453 L0.681437594,1.58668207 C0.703314707,1.60539393 0.731362572,1.61418691 0.75940363,1.61112433 C0.787444688,1.60806175 0.81317892,1.59339483 0.830938346,1.57035395 L1.60358496,0.568942585 C1.6213574,0.545916471 1.62970751,0.516402463 1.62679758,0.486896141 C1.62388764,0.457389818 1.60995614,0.430309356 1.58806917,0.411614746 L1.22462256,0.101067209 C1.07624288,-0.0257189431 0.858290461,-0.00191753427 0.737810526,0.154229326 L0.267473684,0.763835535 C0.146995165,0.919983606 0.16961245,1.14934689 0.317990977,1.27613453 L0.317990977,1.27613453 Z" id="Path"></path>
+                                <polygon id="Rectangle" transform="translate(1.514013, 1.323246) rotate(-140.924600) translate(-1.514013, -1.323246) " points="0.648531546 1.08405211 2.36868616 1.12722374 2.37949517 1.56243966 0.659340557 1.51926803"></polygon>
+                            </g>
+                            <g id="washers" transform="translate(1.323308, 1.392590)" fill="#031CA6">
+                                <path d="M0.462231579,12.9700945 L0.462231579,12.9700945 C0.316420436,12.8415858 0.225093135,12.6573833 0.208341657,12.4580115 C0.19159018,12.2586397 0.250786798,12.0604311 0.372908271,11.9069914 L0.372908271,11.9069914 C0.495023639,11.7535463 0.670062024,11.6574376 0.859515027,11.6398091 C1.04896803,11.6221806 1.23731577,11.6844765 1.3831218,11.8129916 L1.3831218,11.8129916 C1.52893084,11.9414941 1.62025736,12.1256907 1.63700891,12.3250568 C1.65376046,12.5244229 1.5945647,12.7226259 1.47244511,12.8760599 L1.47244511,12.8760599 C1.35042076,13.0296406 1.17536904,13.1258509 0.985875803,13.1434838 C0.796382572,13.1611166 0.608004406,13.0987243 0.462264662,12.9700597 L0.462231579,12.9700945 Z" id="Path"></path>
+                                <path d="M2.31681504,10.6395606 L2.31681504,10.6395606 C2.01319985,10.3719573 1.97320878,9.89600938 2.22749173,9.57649228 L2.22749173,9.57649228 C2.34960123,9.42304945 2.524634,9.32694153 2.71408159,9.30931296 C2.90352918,9.29168439 3.09187159,9.35397933 3.23767218,9.48249247 L3.23767218,9.48249247 C3.54129132,9.75010821 3.581282,10.226067 3.32699549,10.5455956 L3.32699549,10.5455956 C3.20497615,10.6991844 3.02992331,10.7954008 2.84042739,10.8130339 C2.65093147,10.8306669 2.4625512,10.7682689 2.31681504,10.6395954 L2.31681504,10.6395606 Z" id="Path"></path>
+                                <path d="M4.1455609,8.34161323 L4.1455609,8.34161323 C3.99974976,8.21310453 3.90842246,8.02890204 3.89167098,7.82953026 C3.8749195,7.63015848 3.93411612,7.43194982 4.05623759,7.27851014 L4.05623759,7.27851014 C4.1783471,7.1250673 4.35337986,7.02895938 4.54282745,7.01133081 C4.73227504,6.99370224 4.92061746,7.05599718 5.06641805,7.18451032 L5.06641805,7.18451032 C5.21222708,7.31301285 5.3035536,7.49720942 5.32030515,7.69657551 C5.3370567,7.8959416 5.27786094,8.09414465 5.15574135,8.2475786 L5.15574135,8.2475786 C5.03371113,8.40116151 4.85865378,8.49737269 4.66915514,8.51500543 C4.4796565,8.53263818 4.29127301,8.47024497 4.14552782,8.34157842 L4.1455609,8.34161323 Z" id="Path"></path>
+                                <path d="M6.0130797,5.99478599 L6.0130797,5.99478599 C5.70946056,5.72717025 5.66946988,5.25121145 5.92375639,4.9316829 L5.92375639,4.9316829 C6.1780582,4.61216783 6.63033797,4.57008345 6.93396992,4.83768308 L6.93396992,4.83768308 C7.07978107,4.96619178 7.17110837,5.15039427 7.18785985,5.34976605 C7.20461132,5.54913784 7.14541471,5.7473465 7.02329323,5.90078618 L7.02329323,5.90078618 C6.9012739,6.05437499 6.72622106,6.15059139 6.53672513,6.16822446 C6.34722921,6.18585753 6.15884894,6.12345949 6.01311278,5.99478599 L6.0130797,5.99478599 Z" id="Path"></path>
+                                <path d="M7.85472782,3.68051054 L7.85472782,3.68051054 C7.55110868,3.4128948 7.511118,2.936936 7.76540451,2.61740745 L7.76540451,2.61740745 C8.01970632,2.29789238 8.47198609,2.255808 8.77561805,2.52340763 L8.77561805,2.52340763 C9.07923718,2.79102337 9.11922786,3.26698217 8.86494135,3.58651073 L8.86494135,3.58651073 C8.74291615,3.74010176 8.56785768,3.83631897 8.37835635,3.85395196 C8.18885502,3.87158496 8.00046942,3.80918602 7.85472782,3.68051054 L7.85472782,3.68051054 Z" id="Path"></path>
+                                <path d="M9.69654135,1.36623509 L9.69654135,1.36623509 C9.39292222,1.09861935 9.35293154,0.622660551 9.60721805,0.303131997 L9.60721805,0.303131997 C9.86150802,-0.0163789116 10.3137774,-0.0584637108 10.6173985,0.209132181 L10.6173985,0.209132181 C10.7632096,0.337640879 10.8545369,0.52184337 10.8712884,0.721215154 C10.8880399,0.920586937 10.8288433,1.1187956 10.7067218,1.27223528 L10.7067218,1.27223528 C10.5846966,1.42582631 10.4096381,1.52204352 10.2201368,1.53967651 C10.0306355,1.55730951 9.84224988,1.49491057 9.69650827,1.36623509 L9.69654135,1.36623509 Z" id="Path"></path>
+                            </g>
+                            <g id="nuts" transform="translate(1.654135, 1.392590)" fill="#06182D">
+                                <polygon id="Path" points="1.10893233 12.7195676 0.737082707 13.0081818 0.279879699 12.9357672 0.00562406015 12.5444494 0.0747669173 12.0633096 0.446616541 11.7746954 0.903488722 11.8474582 1.17774436 12.2387759"></polygon>
+                                <polygon id="Path" points="3.00093233 9.80940294 3.00754887 10.2957649 2.68532331 10.6446087 2.22348872 10.6515717 1.892 10.312476 1.88538346 9.82611402 2.2072782 9.47761841 2.66944361 9.47065546"></polygon>
+                                <polygon id="Path" points="3.97521805 7.21152656 4.43374436 7.14990446 4.79930827 7.4472224 4.85786466 7.92975478 4.57500752 8.31445773 4.11681203 8.37607983 3.75124812 8.0787619 3.6923609 7.59622951"></polygon>
+                                <polygon id="Path" points="6.02733835 6.04001035 5.64225564 5.77158865 5.54995489 5.29497478 5.80502256 4.88938298 6.25792481 4.79259799 6.64333835 5.06101968 6.73530827 5.53728541 6.4802406 5.94287721"></polygon>
+                                <polygon id="Path" points="7.39828571 3.25483064 7.46709774 2.77369084 7.8392782 2.4850766 8.29615038 2.55783942 8.57040602 2.94915717 8.50126316 3.42994881 8.12941353 3.71856306 7.67254135 3.64614839"></polygon>
+                                <polygon id="Path" points="9.59497744 1.37483433 9.2681203 1.03086464 9.2681203 0.544502633 9.59497744 0.200532939 10.0571429 0.200532939 10.384 0.544502633 10.384 1.03086464 10.0571429 1.37483433"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="locking-tremolo" transform="translate(1.323308, 100.266470)">
+                        <polygon id="plate-2" fill="#191919" fill-rule="nonzero" points="13.1824662 26.128119 11.3291729 26.1490079 11.2150376 29.0783206 1.53834586 29.0783206 1.51948872 26.128119 0.197503759 26.128119 0.197503759 21.3421358 0.197503759 20.244775 0.615669173 20.244775 0.813503759 21.3595432 1.22306767 21.3595432 1.73121805 21.3459654 1.86553383 20.244775 10.8289624 20.1835011 11.2338947 21.3511877 12.6362707 21.3480543 12.6270075 20.1835011 13.1824662 20.1835011 13.1824662 21.3421358"></polygon>
+                        <g id="Group" transform="translate(2.315789, 25.414765)" fill-rule="nonzero">
+                            <rect id="Rectangle" fill="url(#linearGradient-5)" x="0.022" y="0.146535267" width="1" height="3.92090637"></rect>
+                            <rect id="Rectangle" fill="#000000" opacity="0.84" x="0.022" y="0.146535267" width="1" height="3.92090637"></rect>
+                        </g>
+                        <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill-opacity="0.84" fill="#000000" fill-rule="nonzero" x="2.0775609" y="29.4722495" width="1" height="1" rx="0.5"></rect>
+                        <g id="Group" transform="translate(3.639098, 25.066617)" fill-rule="nonzero">
+                            <rect id="Rectangle" fill="url(#linearGradient-6)" x="0.39513985" y="0.236983979" width="1" height="4.01884025"></rect>
+                            <rect id="Rectangle" fill="#000000" opacity="0.84" x="0.39513985" y="0.236983979" width="1" height="4.01884025"></rect>
+                        </g>
+                        <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill-opacity="0.84" fill="#000000" fill-rule="nonzero" x="3.68465263" y="29.3124846" width="1" height="1" rx="0.5"></rect>
+                        <g id="Group" transform="translate(5.293233, 24.718470)" fill-rule="nonzero">
+                            <rect id="Rectangle" fill="url(#linearGradient-7)" x="0.17604411" y="0.318903077" width="1" height="4.17860512"></rect>
+                            <rect id="Rectangle" fill="#000000" opacity="0.84" x="0.17604411" y="0.318903077" width="1" height="4.17860512"></rect>
+                        </g>
+                        <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill-opacity="0.84" fill="#000000" fill-rule="nonzero" x="5.17446617" y="29.2060211" width="1" height="1" rx="0.5"></rect>
+                        <g id="Group" transform="translate(6.947368, 25.414765)" fill-rule="nonzero">
+                            <rect id="Rectangle" fill="url(#linearGradient-5)" x="0.148731579" y="0.146535267" width="1" height="3.92090637"></rect>
+                            <rect id="Rectangle" fill="#000000" opacity="0.84" x="0.148731579" y="0.146535267" width="1" height="3.92090637"></rect>
+                        </g>
+                        <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill-opacity="0.84" fill="#000000" fill-rule="nonzero" x="6.78155789" y="29.4722495" width="1" height="1" rx="0.5"></rect>
+                        <g id="Group" transform="translate(8.270677, 25.066617)" fill-rule="nonzero">
+                            <rect id="Rectangle" fill="url(#linearGradient-8)" x="0.362895238" y="0.130485669" width="1" height="4.07210681"></rect>
+                            <rect id="Rectangle" fill="#000000" opacity="0.84" x="0.362895238" y="0.130485669" width="1" height="4.07210681"></rect>
+                        </g>
+                        <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill-opacity="0.84" fill="#000000" fill-rule="nonzero" x="8.29204812" y="29.2592529" width="1" height="1" rx="0.5"></rect>
+                        <g id="Group" transform="translate(9.924812, 24.718470)" fill-rule="nonzero">
+                            <rect id="Rectangle" fill="url(#linearGradient-9)" x="0.300170426" y="0.212404768" width="1" height="4.07210681"></rect>
+                            <rect id="Rectangle" fill="#000000" opacity="0.84" x="0.300170426" y="0.212404768" width="1" height="4.07210681"></rect>
+                        </g>
+                        <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill-opacity="0.84" fill="#000000" fill-rule="nonzero" x="9.89913985" y="28.9930245" width="1" height="1" rx="0.5"></rect>
+                        <rect id="Rectangle" fill="#111111" fill-rule="nonzero" x="1.53824662" y="27.8622067" width="9.73743158" height="1.21607909"></rect>
+                        <rect id="Rectangle" fill="url(#linearGradient-10)" fill-rule="nonzero" x="1.53824662" y="27.3130389" width="9.73743158" height="1"></rect>
+                        <polygon id="Path" stroke="#000000" stroke-width="0.0765" fill="#1E1E1E" fill-rule="nonzero" points="11.306015 26.7453845 11.323218 26.2997557 10.7806617 26.2997557 10.7806617 26.7453845 10.0571429 26.7453845 10.0501955 26.2997557 9.16754887 26.2736446 9.1606015 26.7453845 8.47215038 26.7453845 8.46520301 26.2997557 7.64971429 26.2920965 7.64971429 26.7453845 6.94372932 26.7453845 6.94372932 26.2997557 6.08589474 26.2997557 6.08159398 26.7453845 5.27768421 26.7453845 5.27768421 26.2997557 4.57864662 26.2997557 4.59221053 26.7453845 3.79392481 26.7453845 3.78631579 26.2997557 2.95362406 26.2997557 2.95362406 26.7453845 2.27708271 26.7453845 2.26715789 26.2997557 1.5204812 26.2997557 1.53834586 26.7453845 1.53834586 26.7453845 1.53834586 27.3476796 11.2755789 27.3476796"></polygon>
+                        <g id="new_lock" transform="translate(1.654135, 20.192553)">
+                            <g id="locks" transform="translate(0.000000, 2.437032)" fill-rule="nonzero">
+                                <g id="string-lock">
+                                    <path d="M0.251726316,2.31518063 L1.67262857,2.31518063 L1.67262857,2.62444003 C1.67262857,2.70596211 1.64185519,2.78414526 1.58707821,2.84179008 C1.53230123,2.8994349 1.4580077,2.93181942 1.38054135,2.93181942 L0.543780451,2.93181942 C0.382465135,2.93181942 0.251693233,2.79420098 0.251693233,2.62444003 L0.251693233,2.31518063 L0.251726316,2.31518063 Z" id="Path" fill="#000000"></path>
+                                    <path d="M0.717596992,0.0552161831 L0.742574436,0.0552161831 C0.811054423,0.0552161831 0.866568421,0.113636612 0.866568421,0.185701857 L0.866568421,0.838373907 L0.593569925,0.838373907 L0.593569925,0.185701857 C0.593569924,0.151088873 0.606638079,0.117894055 0.629898618,0.0934222444 C0.653159156,0.0689504335 0.684706011,0.0552161831 0.717596992,0.0552161831 Z" id="Path" stroke="#000000" stroke-width="0.038" fill="#12110D"></path>
+                                    <path d="M1.2216782,0.0552161877 L1.24665564,0.0552161877 C1.31513563,0.0552161877 1.37064962,0.113636612 1.37064962,0.185701857 L1.37064962,0.838373907 L1.09765113,0.838373907 L1.09765113,0.185701857 C1.09765113,0.113636612 1.15316513,0.0552161877 1.22164511,0.0552161877 L1.2216782,0.0552161877 Z" id="Path" stroke="#000000" stroke-width="0.038" fill="#12110D"></path>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0386" fill="#12110D" x="0.251726316" y="0.826223561" width="1.42090226" height="1.93657027" rx="0.2092"></rect>
+                                    <rect id="Rectangle" fill="#090907" x="0.866601504" y="0.148484893" width="1" height="1.37981284"></rect>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0366" fill="#000000" x="0.625395489" y="1.357044" width="1" height="1"></rect>
+                                    <rect id="Rectangle" fill="#031CA6" x="0.66843609" y="1.39749873" width="1" height="1"></rect>
+                                </g>
+                            </g>
+                            <g id="lock-lock">
+                                <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="0.730102256" y="0.031437716" width="1" height="2.55407942"></rect>
+                                <path d="M0.557542857,0.524693043 C0.492908855,0.514487081 0.427323873,0.535225679 0.378740167,0.581232162 C0.330156461,0.627238644 0.303662842,0.693694147 0.306511278,0.762408131 L0.22072782,2.07001519 L0.759181955,2.07001519 L0.759181955,0.725400055 C0.756100421,0.611411523 0.665864202,0.521592424 0.557542857,0.524693043 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <path d="M1.39519699,0.524693043 C1.45983099,0.514487081 1.52541598,0.535225679 1.57399968,0.581232162 C1.62258339,0.627238644 1.64907701,0.693694147 1.64622857,0.762408131 L1.73201203,2.07001519 L1.19355789,2.07001519 L1.19355789,0.725400055 C1.19665743,0.611420004 1.28688269,0.521611813 1.39519699,0.524693043 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="0.22072782" y="2.07001519" width="1" height="1"></rect>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="1.35546466" y="2.07001519" width="1" height="1"></rect>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="1.67266165 3.30217869 1.3553985 3.30217869 1.3553985 3.03097182 1.7318797 3.03097182"></polygon>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="0.593503759 3.30217869 0.251759398 3.30217869 0.220661654 3.03097182 0.597142857 3.03097182"></polygon>
+                            </g>
+                        </g>
+                        <g id="Group" transform="translate(3.308271, 20.192553)">
+                            <g id="locks-2" transform="translate(0.000000, 2.088885)" fill-rule="nonzero">
+                                <g id="string-lock-2">
+                                    <path d="M0.132330827,2.4055249 L1.55323308,2.4055249 L1.55323308,2.71478429 C1.55323308,2.88454525 1.42246118,3.02216369 1.26114586,3.02216369 L0.424451128,3.02216369 C0.346984781,3.02216369 0.272691254,2.98977917 0.217914275,2.93213435 C0.163137296,2.87448953 0.13236391,2.79630638 0.13236391,2.71478429 L0.13236391,2.4055249 L0.132330827,2.4055249 Z" id="Path" fill="#000000"></path>
+                                    <path d="M0.600384962,0.145699714 L0.621160902,0.145699714 C0.690810238,0.145699714 0.74727218,0.205117712 0.74727218,0.278413527 L0.74727218,0.955525529 L0.474273684,0.955525529 L0.474273684,0.278517971 C0.474247348,0.243301987 0.487522407,0.209518871 0.511175715,0.184607609 C0.534829022,0.159696347 0.566920969,0.145699714 0.600384962,0.145699714 L0.600384962,0.145699714 Z" id="Path" fill="#000000"></path>
+                                    <path d="M1.10443308,0.145699714 L1.12520902,0.145699714 C1.19485836,0.145699714 1.2513203,0.205117712 1.2513203,0.278413527 L1.2513203,0.955525529 L0.978321805,0.955525529 L0.978321805,0.278517971 C0.978295469,0.243301987 0.991570527,0.209518871 1.01522383,0.184607609 C1.03887714,0.159696347 1.07096909,0.145699714 1.10443308,0.145699714 L1.10443308,0.145699714 Z" id="Path" fill="#000000"></path>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0386" fill="#12110D" x="0.13236391" y="0.916707087" width="1.42090226" height="1.93657027" rx="0.2092"></rect>
+                                    <rect id="Rectangle" fill="#090907" x="0.730366917" y="0.230403991" width="1" height="1.37981284"></rect>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0366" fill="#000000" x="0.489160902" y="1.4389631" width="1" height="1"></rect>
+                                    <rect id="Rectangle" fill="#031CA6" x="0.532168421" y="1.47941783" width="1" height="1"></rect>
+                                </g>
+                            </g>
+                            <g id="lock-lock-2">
+                                <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="0.610772932" y="0.031437716" width="1" height="2.29638067"></rect>
+                                <path d="M0.438213534,0.26699429 C0.373575921,0.256800055 0.307992168,0.277547656 0.25941022,0.323559212 C0.210828271,0.369570768 0.18433547,0.436028098 0.187181955,0.504744193 L0.101398496,1.81231644 L0.639852632,1.81231644 L0.639852632,0.467701303 C0.636753093,0.353721251 0.546527833,0.263913061 0.438213534,0.26699429 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <path d="M1.27586767,0.26699429 C1.34050528,0.256800055 1.40608903,0.277547656 1.45467098,0.323559212 C1.50325293,0.369570768 1.52974573,0.436028098 1.52689925,0.504744193 L1.61268271,1.81231644 L1.07422857,1.81231644 L1.07422857,0.467701303 C1.07731011,0.35371277 1.16754632,0.263893671 1.27586767,0.26699429 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="0.101398496" y="1.81231644" width="1" height="1"></rect>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="1.23613534" y="1.81231644" width="1" height="1"></rect>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="1.55323308 3.04454957 1.23630075 3.04454957 1.23630075 2.7733427 1.61278195 2.7733427"></polygon>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="0.474406015 3.04454957 0.132330827 3.04454957 0.10156391 2.7733427 0.478045113 2.7733427"></polygon>
+                            </g>
+                        </g>
+                        <g id="Group" transform="translate(4.962406, 19.844405)">
+                            <g id="locks-3" transform="translate(0.000000, 2.088885)" fill-rule="nonzero">
+                                <g id="string-lock-3">
+                                    <path d="M0.0314947368,2.487444 L1.45239699,2.487444 L1.45239699,2.79670339 C1.45239699,2.96646434 1.32162509,3.10408279 1.16030977,3.10408279 L0.323548872,3.10408279 C0.162233556,3.10408279 0.0314616541,2.96646434 0.0314616541,2.79670339 L0.0314616541,2.487444 L0.0314947368,2.487444 Z" id="Path" fill="#000000"></path>
+                                    <path d="M0.499548872,0.227618812 L0.520324812,0.227618812 C0.589974148,0.227618812 0.64643609,0.28703681 0.64643609,0.360332625 L0.64643609,1.03747944 L0.373437594,1.03747944 L0.373437594,0.36036744 C0.373428818,0.325163516 0.38671163,0.291398294 0.410363034,0.266502096 C0.434014437,0.241605898 0.466096349,0.227618812 0.499548872,0.227618812 Z" id="Path" fill="#000000"></path>
+                                    <path d="M1.00356391,0.227618812 L1.02433985,0.227618812 C1.09398919,0.227618812 1.15045113,0.28703681 1.15045113,0.360332625 L1.15045113,1.03747944 L0.877452632,1.03747944 L0.877452632,0.36036744 C0.877443856,0.325163516 0.890726668,0.291398294 0.914378071,0.266502096 C0.938029475,0.241605898 0.970111387,0.227618812 1.00356391,0.227618812 Z" id="Path" fill="#000000"></path>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0386" fill="#12110D" x="0.0314947368" y="0.998626185" width="1.42090226" height="1.93657027" rx="0.2092"></rect>
+                                    <rect id="Rectangle" fill="#090907" x="0.643293233" y="0.320852703" width="1" height="1.37981284"></rect>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0366" fill="#000000" x="0.402120301" y="1.52941181" width="1" height="1"></rect>
+                                    <rect id="Rectangle" fill="#031CA6" x="0.44512782" y="1.56986654" width="1" height="1"></rect>
+                                </g>
+                            </g>
+                            <g id="lock-lock-3">
+                                <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="0.509903759" y="0.37958518" width="1" height="2.03015231"></rect>
+                                <path d="M0.337443609,0.348913388 C0.272805996,0.338719153 0.207222243,0.359466754 0.158640295,0.40547831 C0.110058347,0.451489866 0.0835655455,0.517947197 0.0864120301,0.586663291 L0.000628571429,1.89423554 L0.539082707,1.89423554 L0.539082707,0.549620401 C0.535983169,0.435640349 0.445757908,0.345832159 0.337443609,0.348913388 L0.337443609,0.348913388 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <path d="M1.1749985,0.348913388 C1.23963611,0.338719153 1.30521986,0.359466754 1.35380181,0.40547831 C1.40238376,0.451489866 1.42887656,0.517947197 1.42603008,0.586663291 L1.51181353,1.89423554 L0.973359398,1.89423554 L0.973359398,0.549620401 C0.976440932,0.435631868 1.06667715,0.34581277 1.1749985,0.348913388 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="0.000529323308" y="1.89423554" width="1" height="1"></rect>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="1.13526617" y="1.89423554" width="1" height="1"></rect>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="1.45233083 3.12636422 1.1353985 3.12636422 1.1353985 2.85515735 1.5118797 2.85515735"></polygon>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="0.373503759 3.12636422 0.0314285714 3.12636422 0.000661654135 2.85515735 0.377142857 2.85515735"></polygon>
+                            </g>
+                        </g>
+                        <g id="Group" transform="translate(6.285714, 20.192553)">
+                            <g id="locks-4" transform="translate(0.000000, 2.437032)" fill-rule="nonzero">
+                                <g id="string-lock-4">
+                                    <path d="M0.261353383,2.3236058 L1.68225564,2.3236058 L1.68225564,2.63286519 C1.68225564,2.80262615 1.55148374,2.94024459 1.39016842,2.94024459 L0.553407519,2.94024459 C0.392092203,2.94024459 0.261320301,2.80262615 0.261320301,2.63286519 L0.261320301,2.3236058 L0.261353383,2.3236058 Z" id="Path" fill="#000000"></path>
+                                    <path d="M0.729473684,0.0637806154 L0.750249624,0.0637806154 C0.783696415,0.0637806154 0.815773312,0.0777629234 0.839423764,0.102651591 C0.863074216,0.127540259 0.876360902,0.161296537 0.876360902,0.196494429 L0.876360902,0.873606431 L0.603362406,0.873606431 L0.603362406,0.196494429 C0.603362406,0.123198613 0.659824348,0.0637806154 0.729473684,0.0637806154 L0.729473684,0.0637806154 Z" id="Path" fill="#000000"></path>
+                                    <path d="M1.2335218,0.0637806154 L1.25429774,0.0637806154 C1.32394708,0.0637806154 1.38040902,0.123198613 1.38040902,0.196494429 L1.38040902,0.873606431 L1.10741053,0.873606431 L1.10741053,0.196494429 C1.10741053,0.123198613 1.16387247,0.0637806154 1.2335218,0.0637806154 Z" id="Path" fill="#000000"></path>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0386" fill="#12110D" x="0.261452632" y="0.834787989" width="1.42090226" height="1.93657027" rx="0.2092"></rect>
+                                    <rect id="Rectangle" fill="#090907" x="0.873251128" y="0.157014506" width="1" height="1.37981284"></rect>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0366" fill="#000000" x="0.632078195" y="1.36557361" width="1" height="1"></rect>
+                                    <rect id="Rectangle" fill="#031CA6" x="0.675085714" y="1.40602835" width="1" height="1"></rect>
+                                </g>
+                            </g>
+                            <g id="lock-lock-4">
+                                <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="0.739861654" y="0.0127421972" width="1" height="2.58133937"></rect>
+                                <path d="M0.567302256,0.533222655 C0.502664642,0.523028421 0.43708089,0.543776022 0.388498942,0.589787578 C0.339916993,0.635799134 0.313424192,0.702256464 0.316270677,0.770972558 L0.230487218,2.0785448 L0.768941353,2.0785448 L0.768941353,0.733929668 C0.765841815,0.619949617 0.675616555,0.530141426 0.567302256,0.533222655 L0.567302256,0.533222655 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <path d="M1.40495639,0.533222655 C1.469594,0.523028421 1.53517776,0.543776022 1.5837597,0.589787578 C1.63234165,0.635799134 1.65883445,0.702256464 1.65598797,0.770972558 L1.74177143,2.0785448 L1.20331729,2.0785448 L1.20331729,0.733929668 C1.20639883,0.619941136 1.29663505,0.530122037 1.40495639,0.533222655 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="0.230487218" y="2.0785448" width="1" height="1"></rect>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="1.36522406" y="2.0785448" width="1" height="1"></rect>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="1.68225564 3.31053423 1.36532331 3.31053423 1.36532331 3.03932736 1.74180451 3.03932736"></polygon>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="0.603428571 3.31053423 0.261353383 3.31053423 0.230586466 3.03932736 0.607067669 3.03932736"></polygon>
+                            </g>
+                        </g>
+                        <g id="Group" transform="translate(7.939850, 20.192553)">
+                            <g id="locks-5" transform="translate(0.000000, 2.088885)" fill-rule="nonzero">
+                                <g id="string-lock-5">
+                                    <path d="M0.160583459,2.29902659 L1.58148571,2.29902659 L1.58148571,2.60828598 C1.58148571,2.77804694 1.45071381,2.91566538 1.2893985,2.91566538 L0.452637594,2.91566538 C0.291322278,2.91566538 0.160550376,2.77804694 0.160550376,2.60828598 L0.160550376,2.29902659 L0.160583459,2.29902659 Z" id="Path" fill="#000000"></path>
+                                    <path d="M0.628571429,0.0392014044 L0.649347368,0.0392014044 C0.718996704,0.0392014044 0.775458647,0.0986194025 0.775458647,0.171915218 L0.775458647,0.84902722 L0.50246015,0.84902722 L0.50246015,0.171915218 C0.50246015,0.0986194025 0.558922093,0.0392014044 0.628571429,0.0392014044 Z" id="Path" fill="#000000"></path>
+                                    <path d="M1.13265263,0.0392014044 L1.15342857,0.0392014044 C1.22307791,0.0392014044 1.27953985,0.0986194025 1.27953985,0.171915218 L1.27953985,0.84902722 L1.00654135,0.84902722 L1.00654135,0.171915218 C1.00654135,0.0986194025 1.0630033,0.0392014044 1.13265263,0.0392014044 L1.13265263,0.0392014044 Z" id="Path" fill="#000000"></path>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0386" fill="#12110D" x="0.160583459" y="0.810208778" width="1.42090226" height="1.93657027" rx="0.2092"></rect>
+                                    <rect id="Rectangle" fill="#090907" x="0.762523308" y="0.13247011" width="1" height="1.37981284"></rect>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0366" fill="#000000" x="0.521350376" y="1.3409944" width="1" height="1"></rect>
+                                    <rect id="Rectangle" fill="#031CA6" x="0.564357895" y="1.38144914" width="1" height="1"></rect>
+                                </g>
+                            </g>
+                            <g id="lock-lock-5">
+                                <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="0.638992481" y="0.0127421972" width="1" height="2.2086127"></rect>
+                                <path d="M0.466466165,0.160495981 C0.401828552,0.150301746 0.3362448,0.171049347 0.287662851,0.217060903 C0.239080903,0.263072459 0.212588102,0.329529789 0.215434586,0.398245884 L0.129651128,1.70585294 L0.668105263,1.70585294 L0.668105263,0.361237808 C0.665023605,0.247244015 0.574793017,0.157414943 0.466466165,0.160495981 L0.466466165,0.160495981 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <path d="M1.30408722,0.160495981 C1.36872483,0.150301746 1.43430858,0.171049347 1.48289053,0.217060903 C1.53147248,0.263072459 1.55796528,0.329529789 1.5551188,0.398245884 L1.64090226,1.70592257 L1.10244812,1.70592257 L1.10244812,0.361307438 C1.10547598,0.247277682 1.1957282,0.157395909 1.30408722,0.160495981 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="0.129618045" y="1.70585294" width="1" height="1"></rect>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="1.26435489" y="1.70585294" width="1" height="1"></rect>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="1.58135338 2.93801645 1.26442105 2.93801645 1.26442105 2.66680957 1.64090226 2.66680957"></polygon>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="0.502526316 2.93801645 0.160451128 2.93801645 0.129684211 2.66680957 0.506165414 2.66680957"></polygon>
+                            </g>
+                        </g>
+                        <g id="Group" transform="translate(9.593985, 19.844405)">
+                            <g id="locks-6" transform="translate(0.000000, 2.088885)" fill-rule="nonzero">
+                                <g id="string-lock-6">
+                                    <path d="M0.0597142857,2.38094569 L1.48061654,2.38094569 L1.48061654,2.69020508 C1.48061654,2.85996603 1.34984464,2.99758448 1.18852932,2.99758448 L0.351768421,2.99758448 C0.190453105,2.99758448 0.059681203,2.85996603 0.059681203,2.69020508 L0.059681203,2.38094569 L0.0597142857,2.38094569 Z" id="Path" fill="#000000"></path>
+                                    <path d="M0.527735338,0.121120503 L0.548511278,0.121120503 C0.618160614,0.121120503 0.674622556,0.180538501 0.674622556,0.253834316 L0.674622556,0.930946318 L0.40162406,0.930946318 L0.40162406,0.253834316 C0.40162406,0.180538501 0.458086003,0.121120503 0.527735338,0.121120503 Z" id="Path" fill="#000000"></path>
+                                    <path d="M1.03178346,0.121120503 L1.0525594,0.121120503 C1.12220873,0.121120503 1.17867068,0.180538501 1.17867068,0.253834316 L1.17867068,0.930946318 L0.90567218,0.930946318 L0.90567218,0.253834316 C0.90567218,0.218636424 0.918958866,0.184880146 0.942609319,0.159991479 C0.966259771,0.135102811 0.998336668,0.121120503 1.03178346,0.121120503 L1.03178346,0.121120503 Z" id="Path" fill="#000000"></path>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0386" fill="#12110D" x="0.0597142857" y="0.892127876" width="1.42090226" height="1.93657027" rx="0.2092"></rect>
+                                    <rect id="Rectangle" fill="#090907" x="0.671512782" y="0.214389208" width="1" height="1.37981284"></rect>
+                                    <rect id="Rectangle" stroke="#000000" stroke-width="0.0366" fill="#000000" x="0.43033985" y="1.42294831" width="1" height="1"></rect>
+                                    <rect id="Rectangle" fill="#031CA6" x="0.473347368" y="1.46336823" width="1" height="1"></rect>
+                                </g>
+                            </g>
+                            <g id="lock-lock-6">
+                                <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="0.538123308" y="0.346963762" width="1" height="1.95631023"></rect>
+                                <path d="M0.36556391,0.242415079 C0.300926297,0.232220844 0.235342544,0.252968445 0.186760596,0.298980001 C0.138178647,0.344991557 0.111685846,0.411448887 0.114532331,0.480164982 L0.0287488722,1.78777204 L0.567203008,1.78777204 L0.567203008,0.443156907 C0.564121349,0.329163114 0.473890761,0.239334041 0.36556391,0.242415079 L0.36556391,0.242415079 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <path d="M1.20321805,0.242415079 C1.26785566,0.232220844 1.33343941,0.252968445 1.38202136,0.298980001 C1.43060331,0.344991557 1.45709611,0.411448887 1.45424962,0.480164982 L1.54003308,1.78777204 L1.00157895,1.78777204 L1.00157895,0.443156907 C1.00464259,0.329154632 1.09488415,0.239314646 1.20321805,0.242415079 Z" id="Path" stroke="#000000" stroke-width="0.0393" fill="#191919"></path>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="0.0287488722" y="1.78777204" width="1" height="1"></rect>
+                                <rect id="Rectangle" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" x="1.16348571" y="1.78777204" width="1" height="1"></rect>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="1.48078195 3.0198311 1.1635188 3.0198311 1.1635188 2.74862423 1.54 2.74862423"></polygon>
+                                <polygon id="Path" stroke="#000000" stroke-width="0.0382" fill="#191919" fill-rule="nonzero" points="0.40162406 3.0198311 0.0598796992 3.0198311 0.0287819549 2.74862423 0.405263158 2.74862423"></polygon>
+                            </g>
+                        </g>
+                        <g id="lock-lock-color-group-1" transform="translate(1.984962, 20.540700)" fill-rule="nonzero">
+                            <g id="Group" transform="translate(3.308271, 0.000000)">
+                                <ellipse id="Oval" fill="#000000" cx="0.463687218" cy="0.672899418" rx="1" ry="1"></ellipse>
+                                <path d="M0.624266909,0.450345246 C0.773476566,0.450326059 0.908004375,0.543461446 0.96511727,0.686320478 C1.02223016,0.82917951 0.990680081,0.993626899 0.885179467,1.10297747 C0.779678853,1.21232804 0.621005464,1.24504581 0.483151943,1.18587381 C0.345298422,1.12670181 0.255414246,0.987293645 0.255414246,0.832658181 C0.255616089,0.621617806 0.420631486,0.450580623 0.624266909,0.450345246 M0.624266909,0.23266695 C0.390107979,0.23266695 0.179005845,0.37885012 0.0893971021,0.603051477 C-0.000211640922,0.827252835 0.0493199146,1.08531976 0.214895282,1.25691605 C0.380470649,1.42851234 0.629482594,1.47984504 0.845817237,1.3869778 C1.06215188,1.29411056 1.20320582,1.07533198 1.20320582,0.832658181 C1.20315526,0.501313877 0.943985097,0.232719341 0.624266909,0.23266695 L0.624266909,0.23266695 Z" id="Shape" fill="#031CA6"></path>
+                            </g>
+                            <g id="Group" transform="translate(7.939850, 0.000000)">
+                                <ellipse id="Oval" fill="#000000" cx="0.491873684" cy="0.566470738" rx="1" ry="1"></ellipse>
+                                <path d="M0.652570324,0.34388175 C0.801788309,0.343843381 0.936333061,0.436971728 0.993457699,0.579835058 C1.05058234,0.722698387 1.01903516,0.887157274 0.91352866,0.996513946 C0.808022157,1.10587062 0.649337669,1.13858537 0.511479994,1.07940121 C0.373622318,1.02021705 0.28374493,0.880791326 0.28376344,0.726147235 C0.283965286,0.515133071 0.448960186,0.344117136 0.652570324,0.34388175 M0.652570324,0.126203441 C0.418390579,0.126126707 0.207229355,0.272266325 0.117565593,0.496467412 C0.0279018316,0.7206685 0.0773965673,0.978770261 0.242967015,1.15040217 C0.408537463,1.32203407 0.657571279,1.37338985 0.873926938,1.28051879 C1.0902826,1.18764774 1.23134461,0.96884261 1.23132611,0.726147235 C1.23135039,0.567049202 1.17038669,0.414458106 1.06184761,0.301945461 C0.953308535,0.189432816 0.806085976,0.126216054 0.652570324,0.126203441 L0.652570324,0.126203441 Z" id="Shape" fill="#031CA6"></path>
+                            </g>
+                            <g id="Group" transform="translate(6.285714, 0.348147)">
+                                <ellipse id="Oval" fill="#000000" cx="0.592742857" cy="0.48455164" rx="1" ry="1"></ellipse>
+                                <path d="M0.753313618,0.261978469 C0.957022336,0.261978469 1.12216324,0.433117422 1.12217167,0.64423373 C1.1221801,0.855350038 0.957052852,1.02650315 0.753344135,1.02652062 C0.549635417,1.02653808 0.384480847,0.855413296 0.384455564,0.64429699 C0.384657409,0.43325353 0.549675218,0.262213847 0.753313618,0.261978469 M0.753313618,0.0442495426 C0.433581735,0.0442757463 0.174412032,0.31290686 0.174412032,0.644265358 C0.174412032,0.975623855 0.433612256,1.24424954 0.75334414,1.24424954 C1.07307602,1.24424954 1.33228148,0.975655486 1.33230677,0.64429699 C1.33228149,0.312910788 1.07307223,0.0442757423 0.753313618,0.0442495426 Z" id="Shape" fill="#031CA6"></path>
+                            </g>
+                            <g id="Group" transform="translate(4.631579, 0.696295)">
+                                <path d="M0.69361203,0.869393846 C0.504546224,0.869336166 0.351313997,0.708013954 0.351338355,0.509049632 C0.351362713,0.31008531 0.504634435,0.148798241 0.69370025,0.148798241 C0.882766064,0.148798241 1.03604766,0.310062087 1.03608421,0.509026407 C1.0358836,0.707977929 0.882665698,0.869201957 0.69361203,0.869393846 Z" id="Path" fill="#000000"></path>
+                                <path d="M0.854125531,0.286506949 C1.00335596,0.286391898 1.137954,0.379466403 1.19513902,0.522317797 C1.25232405,0.665169191 1.2208305,0.829655465 1.11534793,0.939055228 C1.00986535,1.04845499 0.851174034,1.08121627 0.713292414,1.02205821 C0.575410793,0.962900155 0.485501786,0.823477015 0.485501786,0.668819977 C0.48572851,0.457882879 0.650589963,0.286899147 0.854125531,0.286506949 M0.854125531,0.0688287457 C0.619966611,0.0688287457 0.408864486,0.215011929 0.319255747,0.43921328 C0.229647008,0.66341463 0.279178561,0.921481548 0.444753921,1.09307783 C0.610329282,1.26467412 0.859341216,1.31600682 1.07567585,1.22313958 C1.29201048,1.13027234 1.43306443,0.91149377 1.43306443,0.668819977 C1.43310085,0.509680838 1.37211739,0.357048782 1.26353738,0.244520415 C1.15495738,0.131992048 1.00768084,0.0687909967 0.854125531,0.0688287457 L0.854125531,0.0688287457 Z" id="Shape" fill="#031CA6"></path>
+                            </g>
+                            <g id="Group" transform="translate(1.654135, 0.348147)">
+                                <path d="M0.564556391,0.951347775 C0.426030299,0.951390006 0.301122058,0.863607606 0.248082599,0.728937863 C0.19504314,0.594268119 0.224319103,0.439235556 0.32225765,0.336139577 C0.420196196,0.233043597 0.567507371,0.202189962 0.695492639,0.257967258 C0.823477907,0.313744554 0.906929323,0.445166897 0.906929323,0.590945505 C0.906710672,0.789854021 0.753569103,0.951060008 0.564556391,0.951347775 L0.564556391,0.951347775 Z" id="Path" fill="#000000"></path>
+                                <path d="M0.725073684,0.368476778 C0.928788362,0.368476778 1.09393174,0.539625367 1.09393174,0.750747852 C1.09393174,0.961870336 0.928788362,1.13301893 0.725073684,1.13301893 C0.521359006,1.13301893 0.35621563,0.961870336 0.35621563,0.750747852 C0.35641752,0.539712095 0.52144269,0.368686009 0.725073684,0.368476778 M0.725073684,0.150747852 C0.405329882,0.150747852 0.146126316,0.419377002 0.146126316,0.750747852 C0.146126316,1.0821187 0.405329882,1.35074785 0.725073684,1.35074785 C1.04481749,1.35074785 1.30402105,1.0821187 1.30402105,0.750747852 C1.3039705,0.419398706 1.04479654,0.150800243 0.725073684,0.150747852 Z" id="Shape" fill="#031CA6"></path>
+                            </g>
+                            <g id="Group" transform="translate(0.000000, 0.696295)">
+                                <ellipse id="Oval" fill="#000000" cx="0.683852632" cy="0.500531609" rx="1" ry="1"></ellipse>
+                                <path d="M0.844436091,0.277993249 C0.993647929,0.277974062 1.1281777,0.37111081 1.18529143,0.51397193 C1.24240516,0.65683305 1.21085462,0.821282843 1.10535246,0.930635011 C0.999850306,1.03998718 0.841174598,1.07270543 0.703319062,1.01353256 C0.565463526,0.954359703 0.475578036,0.814949496 0.475578036,0.660311772 C0.475805059,0.449279136 0.640808138,0.278254721 0.844436091,0.277993249 M0.844436091,0.060264326 C0.524698247,0.060264326 0.265488723,0.328883839 0.265488723,0.660248512 C0.265488723,0.991613186 0.524667729,1.26024686 0.844405572,1.26026433 C1.16414342,1.26028179 1.42335818,0.991676445 1.42338346,0.660311772 C1.42333291,0.328954946 1.16416636,0.0603429107 0.844436091,0.060264326 L0.844436091,0.060264326 Z" id="Shape" fill="#031CA6"></path>
+                            </g>
+                        </g>
+                        <g id="fine-tuners" transform="translate(1.984962, 27.851797)" fill-rule="nonzero" stroke="#000000">
+                            <g id="fine-tuners-2" transform="translate(7.939850, 0.000000)">
+                                <g id="fine-tuner">
+                                    <path d="M0.936240602,0.620329151 C0.936240602,0.739012621 0.755178947,0.620329151 0.531771429,0.620329151 C0.30836391,0.620329151 0.127335338,0.739012621 0.127335338,0.620329151 C0.126020593,0.467349824 0.202819996,0.325395335 0.328498328,0.248503481 C0.45417666,0.171611628 0.60939928,0.171611628 0.735077612,0.248503481 C0.860755944,0.325395335 0.937555347,0.467349824 0.936240602,0.620329151 L0.936240602,0.620329151 Z" id="Path" stroke-width="0.0382" fill="#000000"></path>
+                                    <ellipse id="Oval" stroke-width="0.0419" fill="#031CA6" cx="0.531903759" cy="0.656223154" rx="1" ry="1"></ellipse>
+                                </g>
+                            </g>
+                            <g id="fine-tuners-3" transform="translate(6.285714, 0.000000)">
+                                <g id="fine-tuner-2">
+                                    <path d="M0.99721203,0.620329151 C0.99721203,0.739012621 0.816117293,0.620329151 0.592742857,0.620329151 C0.369368421,0.620329151 0.188273684,0.739012621 0.188273684,0.620329151 C0.186409677,0.466963465 0.263090797,0.324400825 0.38900013,0.247146129 C0.514909463,0.169891433 0.670576251,0.169891433 0.796485584,0.247146129 C0.922394918,0.324400825 0.999076038,0.466963465 0.99721203,0.620329151 L0.99721203,0.620329151 Z" id="Path" stroke-width="0.0382" fill="#000000"></path>
+                                    <ellipse id="Oval" stroke-width="0.0419" fill="#031CA6" cx="0.592742857" cy="0.656223154" rx="1" ry="1"></ellipse>
+                                </g>
+                            </g>
+                            <g id="fine-tuners-4" transform="translate(4.631579, 0.000000)">
+                                <g id="fine-tuner-3">
+                                    <path d="M1.0980812,0.620329151 C1.0980812,0.739012621 0.916986466,0.620329151 0.69361203,0.620329151 C0.470237594,0.620329151 0.289142857,0.739012621 0.289142857,0.620329151 C0.28727885,0.466963465 0.36395997,0.324400825 0.489869303,0.247146129 C0.615778636,0.169891433 0.771445424,0.169891433 0.897354757,0.247146129 C1.02326409,0.324400825 1.09994521,0.466963465 1.0980812,0.620329151 Z" id="Path" stroke-width="0.0382" fill="#000000"></path>
+                                    <ellipse id="Oval" stroke-width="0.0419" fill="#031CA6" cx="0.69361203" cy="0.656223154" rx="1" ry="1"></ellipse>
+                                </g>
+                            </g>
+                            <g id="fine-tuners-5" transform="translate(3.308271, 0.000000)">
+                                <g id="fine-tuner-4">
+                                    <path d="M1.15749774,0.620329151 C1.15749774,0.739012621 0.916038095,0.620329151 0.618205514,0.620329151 C0.320372932,0.620329151 0.0789132832,0.739012621 0.0789132832,0.620329151 C0.0764279397,0.466963465 0.178669433,0.324400825 0.346548544,0.247146129 C0.514427655,0.169891433 0.721983372,0.169891433 0.889862483,0.247146129 C1.05774159,0.324400825 1.15998309,0.466963465 1.15749774,0.620329151 Z" id="Path" stroke-width="0.0382" fill="#000000"></path>
+                                    <ellipse id="Oval" stroke-width="0.0419" fill="#031CA6" cx="0.618205514" cy="0.656223154" rx="1" ry="1"></ellipse>
+                                </g>
+                            </g>
+                            <g id="fine-tuners-6" transform="translate(1.654135, 0.000000)">
+                                <g id="fine-tuner-5">
+                                    <path d="M0.970315789,0.620329151 C0.970315789,0.739012621 0.789221053,0.620329151 0.565846617,0.620329151 C0.34247218,0.620329151 0.161377444,0.739012621 0.161377444,0.620329151 C0.159513436,0.466963465 0.236194556,0.324400825 0.362103889,0.247146129 C0.488013223,0.169891433 0.643680011,0.169891433 0.769589344,0.247146129 C0.895498677,0.324400825 0.972179797,0.466963465 0.970315789,0.620329151 L0.970315789,0.620329151 Z" id="Path" stroke-width="0.0382" fill="#000000"></path>
+                                    <ellipse id="Oval" stroke-width="0.0419" fill="#031CA6" cx="0.565846617" cy="0.656223154" rx="1" ry="1"></ellipse>
+                                </g>
+                            </g>
+                            <g id="fine-tuners-7">
+                                <g id="fine-tuner-6">
+                                    <path d="M1.08842105,0.620329151 C1.08842105,0.739012621 0.907326316,0.620329151 0.68395188,0.620329151 C0.460577444,0.620329151 0.279482707,0.739012621 0.279482707,0.620329151 C0.277618699,0.466963465 0.354299819,0.324400825 0.480209152,0.247146129 C0.606118486,0.169891433 0.761785274,0.169891433 0.887694607,0.247146129 C1.01360394,0.324400825 1.09028506,0.466963465 1.08842105,0.620329151 L1.08842105,0.620329151 Z" id="Path" stroke-width="0.0382" fill="#000000"></path>
+                                    <ellipse id="Oval" stroke-width="0.0419" fill="#031CA6" cx="0.683852632" cy="0.656223154" rx="1" ry="1"></ellipse>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="whammy" transform="translate(10.917293, 0.000000)" stroke="#000000">
+                            <ellipse id="Oval" stroke-width="0.0379" fill="#000000" fill-rule="nonzero" cx="1.09430977" cy="23.6051988" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval" stroke-width="0.0419" fill="#031CA6" fill-rule="nonzero" cx="1.09430977" cy="23.2877579" rx="1" ry="1"></ellipse>
+                            <path d="M1.5574015,22.9383223 C2.04239398,20.3435793 3.45118797,12.9638975 3.59238496,12.2550344 C3.80603388,11.5509186 3.80603388,10.7942648 3.59238496,10.0901491 C3.30999098,9.10945246 1.22253835,1.14498738 1.09430977,0.699219366 C0.966081203,0.253451354 0.139873684,-0.236879534 0.390706767,0.892406394 C0.64153985,2.02169232 2.63222556,9.19861303 2.77342256,10.2090414 C2.91744139,10.8808253 2.93662886,11.5755823 2.82992782,12.2550344 C2.71695038,13.1213994 0.824884211,22.8033455 0.76841203,23.0738909 C0.853136842,23.3444711 1.39202105,23.8229998 1.5574015,22.9383223 Z" id="Path" stroke-width="0.0393" fill="#191919"></path>
+                        </g>
+                        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="1.53057143" y="27.8027431" width="9.74513985" height="1"></rect>
+                    </g>
+                </g>
+                <g id="Combined-Shape">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                </g>
+                <g id="left" transform="translate(0.000000, 77.000000)">
+                    <path d="M2.538432,6.93925397 C1.40361035,16.1080857 6.300288,22.9233714 6.05348894,27.5030381 C6.04671247,34.2675492 1.44105035,40.8374825 0.513520941,47.7720222 C0.3214846,49.209946 0.284836876,50.6653905 0.404250353,52.1116444 C16.8056471,42.3395937 15.3368132,19.2677746 2.538432,6.93925397 Z" id="bend_in_back" fill="#F13005"></path>
+                    <rect id="Rectangle" fill="#1A1A1A" fill-rule="nonzero" x="14.1615021" y="23.236854" width="14.3952904" height="18.0054635"></rect>
+                    <g id="Rectangle_9_copy_2" transform="translate(0.338824, 0.000000)" fill="#031CA6">
+                        <path d="M5.98274259,2.25238095 C5.963904,1.34563175 6.05355671,0.0136190476 5.70795671,0.000698412698 C4.06611953,1.0296 3.31054306,2.38134286 2.45884235,5.40700635 C0.497697882,14.7326667 5.98538541,22.4797048 5.71473318,27.5030381 C5.70795671,34.2675492 1.10222682,40.8375175 0.174765176,47.7720222 C-0.319917176,52.5972857 -0.465814588,63.2620476 13.8225769,65.8806063 L13.8225769,16.0282222 C10.3479078,16.0282222 6.21636141,12.1692825 5.98274259,2.25238095 Z" id="Path"></path>
+                    </g>
+                    <g id="Group" transform="translate(15.247059, 23.047619)" fill-rule="nonzero">
+                        <rect id="Rectangle" fill="#111111" x="0.0897543529" y="0.189234921" width="13.2200132" height="6.8125619"></rect>
+                        <rect id="Rectangle" fill="#111111" x="0.0896527059" y="11.3821365" width="13.2200132" height="6.8125619"></rect>
+                        <rect id="Rectangle" fill="#031A8C" x="1.55855435" y="11.7606063" width="10.2822099" height="6.0555873"></rect>
+                        <rect id="Rectangle" fill="#031A8C" x="1.55862212" y="0.674526984" width="10.2822099" height="6.0555873"></rect>
+                    </g>
+                    <line x1="0.989229176" y1="45.2159365" x2="13.3048546" y2="65.7104032" id="lineforslant3D" stroke="#000000" stroke-width="0.0765"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

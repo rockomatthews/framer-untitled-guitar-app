@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="650px" viewBox="0 0 375 650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>card-stages</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24,0 L351,0 C364.254834,-2.4348735e-15 375,10.745166 375,24 L375,652 L375,652 L0,652 L0,24 C-1.623249e-15,10.745166 10.745166,2.4348735e-15 24,0 Z" id="path-1"></path>
+        <polygon id="path-3" points="0 73 375 73 375 652 0 652"></polygon>
+    </defs>
+    <g id="wireframe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stage-1" transform="translate(0.000000, -162.000000)">
+            <g id="card-stages" transform="translate(0.000000, 162.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="card-full" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="card-top-banner" stroke-width="1" fill-rule="evenodd" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, -2.000000)">
+                        <rect id="Rectangle" fill="#000000" fill-rule="evenodd" x="0" y="0" width="375" height="75"></rect>
+                        <text id="WORD" fill="none" font-family="Roboto-Medium, Roboto Medium" font-size="29" font-weight="normal">
+                            <tspan x="76.7250977" y="48" fill="#FFFFFF">CHOOSE A BODY</tspan>
+                        </text>
+                    </g>
+                </g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

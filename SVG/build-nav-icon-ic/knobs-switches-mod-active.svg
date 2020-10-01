@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>build-nav-icon-ic/knobs-switches-mod-active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="50" cy="50" r="50"></circle>
+        <filter x="-4.0%" y="-4.0%" width="108.0%" height="110.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="ic/knobs-switches-mod-active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <g id="Oval-Copy-6">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#EAE5E5" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="button" transform="translate(14.000000, 23.000000)" fill="#03196B">
+                <path d="M24,27 C32.6949699,27 48,26.267055 48,22.5806741 C48,18.8942933 38.7275933,15 24,15 C9.27240667,15 0,18.8942933 0,22.5806741 C0,26.267055 15.3050301,27 24,27 Z" id="Oval-Copy-2"></path>
+                <path d="M4,5 C7.70166618,7.01464391 14.5349995,8.02196587 24.5,8.02196587 C34.4650005,8.02196587 41.2983338,7.01464391 45,5 L45,20.2123734 C38.1666667,22.0707911 31.3333333,23 24.5,23 C17.6666667,23 10.8333333,22.0707911 4,20.2123734 L4,5 Z" id="Rectangle" stroke="#EAE5E5" stroke-width="1.2"></path>
+                <path d="M24.5,7.50611926 C31.5646631,7.50611926 44,6.57244872 44,4.42205991 C44,2.2716711 36.4661696,0 24.5,0 C12.5338304,0 5,2.2716711 5,4.42205991 C5,6.57244872 17.4353369,7.50611926 24.5,7.50611926 Z" id="Oval-2" stroke="#000000" stroke-width="0.2"></path>
+            </g>
+            <g id="switch" transform="translate(40.000000, 34.000000)">
+                <path d="" id="Path-2" stroke="#979797"></path>
+                <rect id="Rectangle" fill="#000000" x="0" y="39" width="33" height="5"></rect>
+                <polygon id="Rectangle-Copy" fill="#000000" transform="translate(25.248964, 30.406125) rotate(-44.000000) translate(-25.248964, -30.406125) " points="8.32288498 26.3161287 42.1750422 26.1733586 42.1393497 34.6388907 13.8881865 34.2942569"></polygon>
+                <path d="M37.9108675,26.8848741 C45.9782918,26.8504096 52.5350233,22.7931307 52.5557864,17.8226879 C52.5764511,12.8522451 46.0533034,8.85084415 37.9858791,8.88530863 C29.9184548,8.91977311 23.171789,13.5011299 20.5557864,17.9593935 C22.0783393,22.7770694 29.8434431,26.9193386 37.9108675,26.8848741 Z" id="Oval" fill="#000000" transform="translate(36.555786, 17.885088) rotate(135.000000) translate(-36.555786, -17.885088) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
