@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>buttons-ic/expand-pressed</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.0214445%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="80%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.06" offset="20%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="55" cy="55" r="50"></circle>
+        <filter x="-16.0%" y="-16.0%" width="132.0%" height="140.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="ic/expand-pressed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval-Copy-2">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <circle stroke="url(#linearGradient-1)" stroke-width="0.5" stroke-linejoin="square" fill="#000000" fill-rule="evenodd" cx="55" cy="55" r="49.75"></circle>
+            <circle stroke="url(#linearGradient-2)" stroke-width="0.5" stroke-linejoin="square" cx="55" cy="55" r="49.75"></circle>
+        </g>
+        <g id="expand" transform="translate(26.000000, 26.000000)">
+            <g id="Group-4" transform="translate(13.000000, 13.000000) scale(-1, -1) translate(-13.000000, -13.000000) translate(0.000000, 0.000000)">
+                <line x1="5.47058824" y1="20.5294118" x2="21" y2="5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" transform="translate(13.000000, 13.000000) scale(1, -1) translate(-13.000000, -13.000000) "></line>
+                <polygon id="Path-3" fill="#FFFFFF" transform="translate(13.000000, 13.000000) scale(-1, -1) translate(-13.000000, -13.000000) " points="20.8 2.30926389e-14 26 9.5617958e-15 26 26 0 26 0 20.8 20.8 20.8"></polygon>
+            </g>
+            <g id="Group-3" transform="translate(45.000000, 13.000000) scale(-1, -1) translate(-45.000000, -13.000000) translate(32.000000, 0.000000)">
+                <line x1="5.47058824" y1="20.5294118" x2="21" y2="5" id="Line-Copy" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" transform="translate(13.000000, 13.000000) scale(-1, -1) translate(-13.000000, -13.000000) "></line>
+                <polygon id="Path-3-Copy-2" fill="#FFFFFF" transform="translate(13.000000, 13.000000) scale(1, -1) translate(-13.000000, -13.000000) " points="20.8 2.30926389e-14 26 9.5617958e-15 26 26 0 26 0 20.8 20.8 20.8"></polygon>
+            </g>
+            <g id="Group-2" transform="translate(13.000000, 45.000000) scale(-1, -1) translate(-13.000000, -45.000000) translate(0.000000, 32.000000)">
+                <line x1="5.47058824" y1="20.5294118" x2="21" y2="5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></line>
+                <polygon id="Path-3-Copy" fill="#FFFFFF" transform="translate(13.000000, 13.000000) scale(-1, 1) translate(-13.000000, -13.000000) " points="20.8 2.30926389e-14 26 9.5617958e-15 26 26 0 26 0 20.8 20.8 20.8"></polygon>
+            </g>
+            <g id="Line-Copy-3" transform="translate(45.000000, 45.000000) scale(-1, -1) translate(-45.000000, -45.000000) translate(32.000000, 32.000000)">
+                <line x1="5.47058824" y1="20.5294118" x2="21" y2="5" id="Line-Copy-2" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square" transform="translate(13.000000, 13.000000) scale(-1, 1) translate(-13.000000, -13.000000) "></line>
+                <polygon id="Path-3-Copy-3" fill="#FFFFFF" points="20.8 2.30926389e-14 26 9.5617958e-15 26 26 0 26 0 20.8 20.8 20.8"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

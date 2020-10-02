@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
     <title>build-nav-icon-ic/pickups-mod-active</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <circle id="path-1" cx="50" cy="50" r="50"></circle>
-        <filter x="-4.0%" y="-4.0%" width="108.0%" height="110.0%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+        <filter x="-5.0%" y="-5.0%" width="110.0%" height="112.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
-            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
             <feMerge>
                 <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
@@ -19,10 +23,10 @@
         </filter>
     </defs>
     <g id="ic/pickups-mod-active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="ic/pickups-mod">
-            <g id="Oval-Copy">
+        <g id="ic/pickups-mod" transform="translate(5.000000, 5.000000)">
+            <g id="Oval-Copy" opacity="0.46">
                 <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-                <use fill="#EAE5E5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke="#FFFFFF" stroke-width="2" fill-opacity="0.5" fill="#EAE5E5" fill-rule="evenodd" xlink:href="#path-1"></use>
             </g>
             <g id="pickups" transform="translate(27.000000, 10.000000)">
                 <rect id="Rectangle" fill="#03196B" x="0" y="0" width="47" height="14" rx="7"></rect>
@@ -62,14 +66,6 @@
                     <circle id="Oval-Copy-5" cx="31.5" cy="1.5" r="1.25"></circle>
                 </g>
                 <rect id="Rectangle-Copy-4" fill="#03196B" x="0" y="33" width="47" height="14" rx="7"></rect>
-                <g id="magnets" transform="translate(6.000000, 39.000000)" fill="#000000">
-                    <circle id="Oval" cx="1.5" cy="1.5" r="1.5"></circle>
-                    <circle id="Oval-Copy" cx="7.5" cy="1.5" r="1.5"></circle>
-                    <circle id="Oval-Copy-2" cx="13.5" cy="1.5" r="1.5"></circle>
-                    <circle id="Oval-Copy-3" cx="19.5" cy="1.5" r="1.5"></circle>
-                    <circle id="Oval-Copy-4" cx="25.5" cy="1.5" r="1.5"></circle>
-                    <circle id="Oval-Copy-5" cx="31.5" cy="1.5" r="1.5"></circle>
-                </g>
             </g>
         </g>
     </g>

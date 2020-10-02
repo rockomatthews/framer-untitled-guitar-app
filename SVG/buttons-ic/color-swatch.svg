@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>buttons-ic/color-swatch</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="50" cy="50" r="50"></circle>
+        <filter x="-5.0%" y="-5.0%" width="110.0%" height="112.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="ic/color-swatch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="color-swatch-button" transform="translate(5.000000, 5.000000)">
+            <g id="Oval" opacity="0.46">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use stroke="#FFFFFF" stroke-width="2" fill-opacity="0.5" fill="#EAE5E5" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="yellow" transform="translate(39.000000, 10.000000)">
+                <path d="M27.8666667,1.26984127 L27.8666667,78.7301587 L10.1333333,78.7301587 L10.1333333,1.26984127 L27.8666667,1.26984127 Z M19,63.4920635 C15.5021966,63.4920635 12.6666667,66.3347 12.6666667,69.8412698 C12.6666667,73.3478397 15.5021966,76.1904762 19,76.1904762 C22.4978034,76.1904762 25.3333333,73.3478397 25.3333333,69.8412698 C25.3333333,66.3347 22.4978034,63.4920635 19,63.4920635 Z" id="blue" fill="#5E5959" transform="translate(19.000000, 40.000000) rotate(15.000000) translate(-19.000000, -40.000000) "></path>
+                <g id="blue-colors" transform="translate(21.294862, 31.413993) rotate(15.000000) translate(-21.294862, -31.413993) translate(12.428196, 7.921929)">
+                    <rect id="Rectangle-Copy" fill="#FFBF00" x="0" y="10.1587302" width="17.7333333" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#FFE500" x="0" y="0" width="17.7333333" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#FFBF00" x="0" y="20.3174603" width="17.7333333" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#FFAC00" x="0" y="30.4761905" width="17.7333333" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#FF9903" x="0" y="40.6349206" width="17.7333333" height="6.34920635"></rect>
+                </g>
+            </g>
+            <g id="green" transform="translate(40.000000, 9.000000)">
+                <path d="M21.9090909,1.26984127 L21.9090909,78.7301587 L4.09090909,78.7301587 L4.09090909,1.26984127 L21.9090909,1.26984127 Z M13,63.4920635 C9.48546068,63.4920635 6.63636364,66.3347 6.63636364,69.8412698 C6.63636364,73.3478397 9.48546068,76.1904762 13,76.1904762 C16.5145393,76.1904762 19.3636364,73.3478397 19.3636364,69.8412698 C19.3636364,66.3347 16.5145393,63.4920635 13,63.4920635 Z" id="blue" fill="#4B4A4A" transform="translate(13.000000, 40.000000) rotate(6.000000) translate(-13.000000, -40.000000) "></path>
+                <g id="greern-colors" transform="translate(13.931254, 31.159805) rotate(6.000000) translate(-13.931254, -31.159805) translate(5.022163, 7.667742)">
+                    <rect id="Rectangle-Copy" fill="#79BB3A" x="0" y="10.1587302" width="17.8181818" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#A1DC40" x="0" y="0" width="17.8181818" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#529B37" x="0" y="20.3174603" width="17.8181818" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#277A32" x="0" y="30.4761905" width="17.8181818" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#00592D" x="0" y="40.6349206" width="17.8181818" height="6.34920635"></rect>
+                </g>
+            </g>
+            <g id="blue" transform="translate(41.000000, 10.000000)">
+                <path d="M18.2016809,-0.0799238492 L18.2016809,77.9200762 L0.201680895,77.9200762 L0.201680895,-0.0799238492 L18.2016809,-0.0799238492 Z M9.2016809,62.5758139 C5.65127893,62.5758139 2.77310947,65.4382556 2.77310947,68.9692565 C2.77310947,72.5002573 5.65127893,75.3626991 9.2016809,75.3626991 C12.7520829,75.3626991 15.6302523,72.5002573 15.6302523,68.9692565 C15.6302523,65.4382556 12.7520829,62.5758139 9.2016809,62.5758139 Z" fill="#323232"></path>
+                <g id="blue-colors" transform="translate(0.201681, 6.920076)">
+                    <rect id="Rectangle-Copy" fill="#46B5E4" x="0" y="10.1621622" width="18" height="6.35135135"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#5CDCFF" x="0" y="0" width="18" height="6.35135135"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#2F8FC9" x="0" y="20.3243243" width="18" height="6.35135135"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#1968AE" x="0" y="30.4864865" width="18" height="6.35135135"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#1968AE" x="0" y="40.6486486" width="18" height="6.35135135"></rect>
+                </g>
+            </g>
+            <g id="red" transform="translate(27.000000, 10.000000)">
+                <path d="M26.1538462,1.26984127 L26.1538462,78.7301587 L7.84615385,78.7301587 L7.84615385,1.26984127 L26.1538462,1.26984127 Z M17,63.4920635 C13.3889074,63.4920635 10.4615385,66.3347 10.4615385,69.8412698 C10.4615385,73.3478397 13.3889074,76.1904762 17,76.1904762 C20.6110926,76.1904762 23.5384615,73.3478397 23.5384615,69.8412698 C23.5384615,66.3347 20.6110926,63.4920635 17,63.4920635 Z" fill="#000000" transform="translate(17.000000, 40.000000) rotate(-11.000000) translate(-17.000000, -40.000000) "></path>
+                <g id="red-colors" transform="translate(15.253364, 31.274425) rotate(-11.000000) translate(-15.253364, -31.274425) translate(6.099518, 7.782362)">
+                    <rect id="Rectangle-Copy" fill="#DF4247" x="0" y="10.1587302" width="18.3076923" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#FF5252" x="0" y="0" width="18.3076923" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#BF313D" x="0" y="20.3174603" width="18.3076923" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#9F1F30" x="0" y="30.4761905" width="18.3076923" height="6.34920635"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#801025" x="0" y="40.6349206" width="18.3076923" height="6.34920635"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
